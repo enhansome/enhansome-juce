@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Modules & Plugin Collections"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Instruments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Samplers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Effects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Metering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Midi"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microtuning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tooling & Debugging"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DSP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Music Notation and Theory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Networking & Cryptography"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graphics & Video"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OpenGL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Educational"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hosts & DAWs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MIR (Music Information Retrieval)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Networking"
+    },
+    {
+      "description": "293 entries as of 2026-08-13",
+      "items": [],
+      "title": "Forks"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T02:35:22.459Z",
+    "original_repository": "sudara/awesome-juce",
+    "original_repository_sha": "d272516ad01b48bbab7031a0964554fd37fabef3",
+    "enhanced_repository": "enhansome/enhansome-juce",
+    "enhanced_repository_description": null,
+    "title": "Awesome juce with stars"
+  }
+}
