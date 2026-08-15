@@ -121,15 +121,15 @@
       "title": "Networking"
     },
     {
-      "description": "293 entries as of 2026-08-13",
+      "description": "293 entries as of 2026-08-14",
       "items": [],
       "title": "Forks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T02:35:22.459Z",
+    "last_updated": "2026-08-15T01:44:02.966Z",
     "original_repository": "sudara/awesome-juce",
-    "original_repository_sha": "d272516ad01b48bbab7031a0964554fd37fabef3",
+    "original_repository_sha": "e9798a370d8379ab2c27e5f14604a72f31fa953a",
     "enhanced_repository": "enhansome/enhansome-juce",
     "enhanced_repository_description": null,
     "title": "Awesome juce with stars"
