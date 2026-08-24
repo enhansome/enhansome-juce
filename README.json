@@ -1,7 +1,4367 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gin",
+          "description": "by FigBug Massive collection of extras, including StackBlur, Websockets, Maps, etc BSD-3-Clause 403 2 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117844713,
+            "language": "C++",
+            "last_commit": "2026-08-23T23:25:22Z",
+            "owner": "FigBug",
+            "repo": "Gin",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chowdsp_utils",
+          "description": "by Chowdhury-DSP Large collection of utilities including dsp, presets, json other 368 9 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 291108849,
+            "language": "C++",
+            "last_commit": "2026-08-07T23:19:45Z",
+            "owner": "Chowdhury-DSP",
+            "repo": "chowdsp_utils",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drowaudio",
+          "description": "by drowaudio Older but large collection of utilities by the Tracktion superstar other 178 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2424126,
+            "language": "C++",
+            "last_commit": "2023-01-03T16:28:26Z",
+            "owner": "drowaudio",
+            "repo": "drowaudio",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "squarepine_core",
+          "description": "by SquarePine Collection includes flexible Google Analytics, Easing functions, metering GPL-3.0 54 7 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352665814,
+            "language": "C",
+            "last_commit": "2026-01-13T19:51:46Z",
+            "owner": "SquarePine",
+            "repo": "squarepine_core",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cello",
+          "description": "by bgporter JUCE ValueTrees for humans MIT 44 8 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 570568500,
+            "language": "C++",
+            "last_commit": "2026-03-29T14:17:55Z",
+            "owner": "bgporter",
+            "repo": "cello",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-utils",
+          "description": "by christofmuc MIDI, i18n, and other helper classes built on top of JUCE MIT 36 4 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221310629,
+            "language": "C++",
+            "last_commit": "2026-08-15T17:12:43Z",
+            "owner": "christofmuc",
+            "repo": "juce-utils",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stk_wrapper",
+          "description": "by adamski JUCE wrapper module for the Synthesis ToolKit (STK) library 31 8 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59243911,
+            "language": "C",
+            "last_commit": "2018-03-23T09:57:52Z",
+            "owner": "adamski",
+            "repo": "stk_wrapper",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kv-juce",
+          "description": "by kushview Kush View's module collection includes ffmpeg, video, jack GPL-2.0 30 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12571203,
+            "language": "C++",
+            "last_commit": "2025-03-31T18:34:58Z",
+            "owner": "kushview",
+            "repo": "kv-juce",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stm-juce-modules",
+          "description": "by spensbot Collection of Modules for use with JUCE MIT 21 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252924619,
+            "language": "C++",
+            "last_commit": "2020-09-14T05:47:29Z",
+            "owner": "spensbot",
+            "repo": "stm-juce-modules",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUMP",
+          "description": "by ImJimmi Metering and utility classes built on top of JUCE GPL-3.0 20 12 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 339506326,
+            "language": "C++",
+            "last_commit": "2025-09-10T14:16:23Z",
+            "owner": "ImJimmi",
+            "repo": "JUMP",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Modules & Plugin Collections"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pamplejuce",
+          "description": "by sudara C++20, JUCE, CMake, Catch2, Pluginval on GitHub Actions MIT 756 7 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303402467,
+            "language": "C++",
+            "last_commit": "2026-08-16T16:31:19Z",
+            "owner": "sudara",
+            "repo": "pamplejuce",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUCECmakeRepoPrototype",
+          "description": "by eyalamirmusic Large variety of JUCE and CMake plugin and app templates 295 9 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239257598,
+            "language": "CMake",
+            "last_commit": "2025-12-04T21:32:57Z",
+            "owner": "eyalamirmusic",
+            "repo": "JUCECmakeRepoPrototype",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio-plugin-template",
+          "description": "by JanWilczek C++23, JUCE, CPM, googletest on GitHub Actions Unlicense 212 7 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 668379174,
+            "language": "CMake",
+            "last_commit": "2026-01-23T11:41:11Z",
+            "owner": "JanWilczek",
+            "repo": "audio-plugin-template",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nn-inference-template",
+          "description": "by Torsion-Audio Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime MIT 134 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 692856370,
+            "language": "C++",
+            "last_commit": "2025-07-28T14:14:50Z",
+            "owner": "Torsion-Audio",
+            "repo": "nn-inference-template",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NTHN_TEMPLATE_PLUGIN",
+          "description": "by ncblair Audio Plugin CMake Template with a focus on Parameters and State Management MIT 113 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 590226383,
+            "language": "C++",
+            "last_commit": "2025-04-08T02:34:17Z",
+            "owner": "ncblair",
+            "repo": "NTHN_TEMPLATE_PLUGIN",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_cmake_vscode_example",
+          "description": "by tomoyanonymous Boilerplate for developing plugins with JUCE, CMake & VSCode 111 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321860034,
+            "language": "C++",
+            "last_commit": "2024-12-04T15:46:33Z",
+            "owner": "tomoyanonymous",
+            "repo": "juce_cmake_vscode_example",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUCE-CMake-Plugin-Template",
+          "description": "by anthonyalfimov Audio Plugin Template on GitHub Actions MIT 74 7 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 456602952,
+            "language": "CMake",
+            "last_commit": "2026-02-04T12:58:04Z",
+            "owner": "anthonyalfimov",
+            "repo": "JUCE-CMake-Plugin-Template",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-plugin-ci",
+          "description": "by ellamenop (Archived) CI for JUCE audio plugins with GitHub Actions 65 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 277684410,
+            "language": "C++",
+            "last_commit": "2023-06-13T22:59:26Z",
+            "owner": "ellamenop",
+            "repo": "juce-plugin-ci",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-template",
+          "description": "by nberr \"Everything but the processing\" template supporting Rust DSP MIT 35 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 338582505,
+            "language": "C++",
+            "last_commit": "2024-06-17T19:30:36Z",
+            "owner": "nberr",
+            "repo": "juce-template",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUCE-ConsoleApp",
+          "description": "by eyalamirmusic A JUCE example for CLI/console app along with the message thread 4 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 866608236,
+            "language": "CMake",
+            "last_commit": "2024-10-04T12:53:21Z",
+            "owner": "eyalamirmusic",
+            "repo": "JUCE-ConsoleApp",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BespokeSynth",
+          "description": "by BespokeSynth Cross-Platform Modular synth instrument/environment GPL-3.0 4694 5 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65670631,
+            "language": "C++",
+            "last_commit": "2026-08-18T11:33:45Z",
+            "owner": "BespokeSynth",
+            "repo": "BespokeSynth",
+            "stars": 4695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surge",
+          "description": "by surge-synthesizer A very active open source rebuild and extension of the classic GPL-3.0 3979 7 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149678202,
+            "language": "C",
+            "last_commit": "2026-08-17T00:39:04Z",
+            "owner": "surge-synthesizer",
+            "repo": "surge",
+            "stars": 3980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helio-sequencer",
+          "description": "by helio-fm One music sequencer for all major platforms, desktop and mobile GPL-3.0 3528 13 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88845336,
+            "language": "C++",
+            "last_commit": "2026-08-10T16:11:27Z",
+            "owner": "helio-fm",
+            "repo": "helio-sequencer",
+            "stars": 3528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dexed",
+          "description": "by asb2m10 Yamaha DX7 FM multi patform / multi format plugin GPL-3.0 3476 5 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14973783,
+            "language": "C++",
+            "last_commit": "2026-07-25T14:14:30Z",
+            "owner": "asb2m10",
+            "repo": "dexed",
+            "stars": 3477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helm",
+          "description": "by mtytel Free, Open source, cross platform 32-voice polyphonic synth GPL-3.0 2504 8 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 28954234,
+            "language": "C++",
+            "last_commit": "2022-09-24T04:23:20Z",
+            "owner": "mtytel",
+            "repo": "helm",
+            "stars": 2504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vital",
+          "description": "by mtytel The popular spectral warping wavetable synth is open source GPL-3.0 2107 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337847095,
+            "language": "C++",
+            "last_commit": "2023-05-25T04:09:10Z",
+            "owner": "mtytel",
+            "repo": "vital",
+            "stars": 2108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giada",
+          "description": "by monocasual Your Hardcore Loop Machine GPL-3.0 2075 21 hours󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6603254,
+            "language": "C++",
+            "last_commit": "2026-08-22T19:01:38Z",
+            "owner": "monocasual",
+            "repo": "giada",
+            "stars": 2075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "odin2",
+          "description": "by TheWaveWarden 24-voice polyphonic synth with filter emulations and modulation matrix other 807 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305401703,
+            "language": "C++",
+            "last_commit": "2025-09-07T09:05:31Z",
+            "owner": "TheWaveWarden",
+            "repo": "odin2",
+            "stars": 807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osci-render",
+          "description": "by jameshball A synthesiser for making oscilloscope music and visuals GPL-3.0 720 4 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235408465,
+            "language": "C++",
+            "last_commit": "2026-08-23T20:17:21Z",
+            "owner": "jameshball",
+            "repo": "osci-render",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ripplerx",
+          "description": "by tiagolr A physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision GPL-3.0 626 10 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 928623889,
+            "language": "C++",
+            "last_commit": "2026-08-13T12:36:29Z",
+            "owner": "tiagolr",
+            "repo": "ripplerx",
+            "stars": 629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADLplug",
+          "description": "by jpcima 2 FM synths based on OPL3 and OPN2 sound chip emulations BSL-1.0 529 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129364699,
+            "language": "C++",
+            "last_commit": "2023-05-12T13:28:41Z",
+            "owner": "jpcima",
+            "repo": "ADLplug",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monique-monosynth",
+          "description": "by surge-synthesizer Mono synth with morph mixer other 411 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 437089104,
+            "language": "C++",
+            "last_commit": "2024-07-30T15:45:35Z",
+            "owner": "surge-synthesizer",
+            "repo": "monique-monosynth",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magical8bitPlug2",
+          "description": "by yokemura 8-bit gaming console synth GPL-3.0 385 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238572087,
+            "language": "C++",
+            "last_commit": "2025-08-11T11:40:55Z",
+            "owner": "yokemura",
+            "repo": "Magical8bitPlug2",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juicysfplugin",
+          "description": "by Birch-san Soundfont synthesizer GPL-3.0 326 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123048474,
+            "language": "C++",
+            "last_commit": "2022-08-21T21:15:41Z",
+            "owner": "Birch-san",
+            "repo": "juicysfplugin",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tunefish",
+          "description": "by paynebc Virtual Analog synth GPL-3.0 309 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46259263,
+            "language": "C++",
+            "last_commit": "2023-09-12T08:43:44Z",
+            "owner": "paynebc",
+            "repo": "tunefish",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OB-Xd",
+          "description": "by reales Virtual Analog modelled Oberheim OB-X with a few extras 256 5 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 580093230,
+            "language": null,
+            "last_commit": "2026-08-18T06:45:29Z",
+            "owner": "reales",
+            "repo": "OB-Xd",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wavetable",
+          "description": "by FigBug A 2 oscillator wavetable synth with flexible modulation options BSD-3-Clause 212 2 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 265705451,
+            "language": "C++",
+            "last_commit": "2026-08-23T16:58:33Z",
+            "owner": "FigBug",
+            "repo": "Wavetable",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChowKick",
+          "description": "by Chowdhury-DSP Kick synthesizer based on old-school drum machine circuits BSD-3-Clause 195 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 364759134,
+            "language": "C++",
+            "last_commit": "2023-01-16T09:07:49Z",
+            "owner": "Chowdhury-DSP",
+            "repo": "ChowKick",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blocks",
+          "description": "by dan-german Simplified modular synth GPL-3.0 194 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 692459277,
+            "language": "C++",
+            "last_commit": "2024-08-07T18:05:48Z",
+            "owner": "dan-german",
+            "repo": "blocks",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aeolus_plugin",
+          "description": "by Archie3d Pipe organ emulator VST/AU GPL-3.0 167 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369858800,
+            "language": "C++",
+            "last_commit": "2026-01-11T00:21:37Z",
+            "owner": "Archie3d",
+            "repo": "aeolus_plugin",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudiblePlanets",
+          "description": "by gregrecco67 An expressive, quasi-Ptolemaic semi-modular synthesizer GPL-3.0 162 5 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 745748363,
+            "language": "C++",
+            "last_commit": "2026-03-12T23:25:24Z",
+            "owner": "gregrecco67",
+            "repo": "AudiblePlanets",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drumlabooh",
+          "description": "by psemiletov LV2/VSTi drum machine that can use Hydrogen, SFZ, and other drumkit formats GPL-3.0 116 4 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 675755418,
+            "language": "C++",
+            "last_commit": "2026-05-05T11:27:44Z",
+            "owner": "psemiletov",
+            "repo": "drumlabooh",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlackBird",
+          "description": "by khrykin Single Oscillator synth GPL-3.0 80 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 311871090,
+            "language": "C++",
+            "last_commit": "2024-07-03T20:48:53Z",
+            "owner": "khrykin",
+            "repo": "BlackBird",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crypt",
+          "description": "by vitling Hyper-unison synth for rich cold synthetic full-textured sounds GPL-3.0 62 9 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313311799,
+            "language": "C++",
+            "last_commit": "2025-11-26T10:02:58Z",
+            "owner": "vitling",
+            "repo": "crypt",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PAPU",
+          "description": "by FigBug Gameboy PAPU emulation GPL-2.0 60 6 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100205452,
+            "language": "C++",
+            "last_commit": "2026-08-23T16:37:07Z",
+            "owner": "FigBug",
+            "repo": "PAPU",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SID",
+          "description": "by FigBug Commodore 64 SID emulation GPL-3.0 58 6 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99887995,
+            "language": "C++",
+            "last_commit": "2026-08-23T16:47:09Z",
+            "owner": "FigBug",
+            "repo": "SID",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SN76489",
+          "description": "by FigBug Sega Master System Sound Chip emulation LGPL-2.1 54 6 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99589990,
+            "language": "C++",
+            "last_commit": "2026-08-23T16:52:33Z",
+            "owner": "FigBug",
+            "repo": "SN76489",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hera",
+          "description": "by jpcima Juno 60 GPL-3.0 44 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325336958,
+            "language": "C++",
+            "last_commit": "2021-08-15T14:17:57Z",
+            "owner": "jpcima",
+            "repo": "Hera",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bitKlavier",
+          "description": "by Princeton-CDH Bitklavier is a digital prepared piano GPL-3.0 43 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68016584,
+            "language": "C++",
+            "last_commit": "2024-07-23T21:02:51Z",
+            "owner": "Princeton-CDH",
+            "repo": "bitKlavier",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voc",
+          "description": "by FigBug Vocal synth emulates glottis and shape of vocal tract LGPL-2.1 38 6 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99512538,
+            "language": "C",
+            "last_commit": "2026-08-23T16:52:55Z",
+            "owner": "FigBug",
+            "repo": "Voc",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RP2A03",
+          "description": "by FigBug Nintenodo RP2A03 LGPL-2.1 36 6 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98031767,
+            "language": "C++",
+            "last_commit": "2026-08-23T16:38:06Z",
+            "owner": "FigBug",
+            "repo": "RP2A03",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SARAH",
+          "description": "by getdunne SARAH: Harmonic-analysis based synthesizer MIT 34 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102391127,
+            "language": "C++",
+            "last_commit": "2022-11-04T14:21:45Z",
+            "owner": "getdunne",
+            "repo": "SARAH",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VanillaJuce",
+          "description": "by getdunne Simple but complete VST2.4 + AUv2 synthesizer MIT 28 1 month󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101573465,
+            "language": "C++",
+            "last_commit": "2026-07-17T17:08:47Z",
+            "owner": "getdunne",
+            "repo": "VanillaJuce",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BatSynth",
+          "description": "by Emmet-Hayes 2 oscillators with 13 wave shapes 20 8 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206130607,
+            "language": "C++",
+            "last_commit": "2025-12-29T01:11:14Z",
+            "owner": "Emmet-Hayes",
+            "repo": "BatSynth",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIMDsynth",
+          "description": "by seclorum A simple polyphonic synthesizer demonstrating SIMD techniques for x86 and ARM CPU types MIT 16 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1054098074,
+            "language": "C++",
+            "last_commit": "2026-08-20T00:36:20Z",
+            "owner": "seclorum",
+            "repo": "SIMDsynth",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-synth",
+          "description": "by w-frank A MIDI controlled subtractive synthesiser built using JUCE and the Maximillian library 12 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305148056,
+            "language": "C++",
+            "last_commit": "2020-10-24T20:17:51Z",
+            "owner": "w-frank",
+            "repo": "juce-synth",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BowedStringJUCE",
+          "description": "by SilvinWillemsen Bowed String 11 8 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157572337,
+            "language": "C++",
+            "last_commit": "2018-11-22T16:14:11Z",
+            "owner": "SilvinWillemsen",
+            "repo": "BowedStringJUCE",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blue-synthesiser",
+          "description": "by mariusz96 Bachelor's thesis \"Sound synthesis based on audio samples as an VST3 instrument\" 10 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 255862609,
+            "language": "C++",
+            "last_commit": "2021-12-03T18:16:10Z",
+            "owner": "mariusz96",
+            "repo": "blue-synthesiser",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duck-synth",
+          "description": "by jsvaldezv Synthesiser plug-in with two oscillators, adsr, reverb and volume MIT 10 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 416420622,
+            "language": "C++",
+            "last_commit": "2025-04-22T05:04:07Z",
+            "owner": "jsvaldezv",
+            "repo": "duck-synth",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VermeerMonosynth-1",
+          "description": "by mohragk Monosynth VST on JUCE 5 GPL-3.0 10 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99110265,
+            "language": "C++",
+            "last_commit": "2024-09-05T11:25:55Z",
+            "owner": "mohragk",
+            "repo": "VermeerMonosynth-1",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-string-model",
+          "description": "by w-frank Realistic string instrument model using physical modelling and includes a delay line 7 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313001206,
+            "language": "C++",
+            "last_commit": "2020-11-15T10:03:41Z",
+            "owner": "w-frank",
+            "repo": "juce-string-model",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeatAligningGuitarLooper",
+          "description": "by DanielRudrich A guitar looper which detects the tempo and plays along a rudimentary drumbeat GPL-3.0 5 8 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143639899,
+            "language": "C++",
+            "last_commit": "2018-08-06T13:28:10Z",
+            "owner": "DanielRudrich",
+            "repo": "BeatAligningGuitarLooper",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "banana-split",
+          "description": "by jsvaldezv Two part project with a FM Synthesiser plug-in and a MIDI controller built with Arduino MIT 1 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 493419213,
+            "language": "C++",
+            "last_commit": "2025-04-22T17:01:39Z",
+            "owner": "jsvaldezv",
+            "repo": "banana-split",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Instruments"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shortcircuit-xt",
+          "description": "by surge-synthesizer Sampler MIT 547 4 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325330080,
+            "language": "C",
+            "last_commit": "2026-08-19T15:06:04Z",
+            "owner": "surge-synthesizer",
+            "repo": "shortcircuit-xt",
+            "stars": 547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vmpc-juce",
+          "description": "by izzyreal JUCE implementation of VMPC2000XL GPL-3.0 249 2 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117138739,
+            "language": "C",
+            "last_commit": "2026-08-24T05:41:30Z",
+            "owner": "izzyreal",
+            "repo": "vmpc-juce",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Just-a-Sample",
+          "description": "by BOBONA A modern audio sampler, focused on simplicity and ease of use MIT 213 6 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 690164797,
+            "language": "C++",
+            "last_commit": "2026-08-17T18:41:25Z",
+            "owner": "BOBONA",
+            "repo": "Just-a-Sample",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soompler",
+          "description": "by abbysoft-team Soompler, a JUCE based sampler plugin 37 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192320022,
+            "language": "C++",
+            "last_commit": "2020-02-03T17:58:21Z",
+            "owner": "abbysoft-team",
+            "repo": "Soompler",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUCE-AKSampler",
+          "description": "by getdunne AudioKit AKSampler wrapped as a JUCE app/plug-in GPL-3.0 32 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216094394,
+            "language": "C",
+            "last_commit": "2019-11-08T01:17:36Z",
+            "owner": "getdunne",
+            "repo": "JUCE-AKSampler",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTAG-JUCE-Sampler",
+          "description": "by NiklasWan CTAG JUCE sampler 27 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149436550,
+            "language": "C++",
+            "last_commit": "2019-12-14T14:17:41Z",
+            "owner": "NiklasWan",
+            "repo": "CTAG-JUCE-Sampler",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sampler",
+          "description": "by DBraun A sampler made with JUCE MIT 26 7 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 361288918,
+            "language": "C++",
+            "last_commit": "2026-02-07T21:21:44Z",
+            "owner": "DBraun",
+            "repo": "Sampler",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "streaming_sampler",
+          "description": "by onereddogmedia Extension to JUCE's Sampler class which enables disk streaming MIT 17 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26836736,
+            "language": "C++",
+            "last_commit": "2021-08-30T07:35:39Z",
+            "owner": "onereddogmedia",
+            "repo": "streaming_sampler",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duck-sampler",
+          "description": "by jsvaldezv Sampler plug-in with ADSR, distortion and LFO MIT 13 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 343850750,
+            "language": "C++",
+            "last_commit": "2025-04-22T18:40:38Z",
+            "owner": "jsvaldezv",
+            "repo": "duck-sampler",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Samplers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AnalogTapeModel",
+          "description": "by jatinchowdhury18 Physical Modeling for Analog Tape Machines GPL-3.0 1416 3 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169377540,
+            "language": "C++",
+            "last_commit": "2025-04-09T07:59:02Z",
+            "owner": "jatinchowdhury18",
+            "repo": "AnalogTapeModel",
+            "stars": 1416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartGuitarAmp",
+          "description": "by GuitarML Neural Network WaveNet modelled guitar amps Apache-2.0 1330 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293843943,
+            "language": "C++",
+            "last_commit": "2023-04-11T18:03:36Z",
+            "owner": "GuitarML",
+            "repo": "SmartGuitarAmp",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZLEqualizer",
+          "description": "by ZL-Audio 16-band minimum-phase dynamic equalizer AGPL-3.0 992 2 hours󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 729959292,
+            "language": "C++",
+            "last_commit": "2026-08-24T01:09:56Z",
+            "owner": "ZL-Audio",
+            "repo": "ZLEqualizer",
+            "stars": 992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paulxstretch",
+          "description": "by essej Extreme Timestretching application and plugin other 645 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 481624605,
+            "language": "C++",
+            "last_commit": "2022-11-28T22:01:53Z",
+            "owner": "essej",
+            "repo": "paulxstretch",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fire",
+          "description": "by jerryuhoo A multi-band distortion plugin AGPL-3.0 636 10 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230856742,
+            "language": "C++",
+            "last_commit": "2025-12-29T22:07:31Z",
+            "owner": "jerryuhoo",
+            "repo": "Fire",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BYOD",
+          "description": "by Chowdhury-DSP Build-Your-Own Guitar Distortion GPL-3.0 569 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378525798,
+            "language": "C++",
+            "last_commit": "2025-08-14T00:15:30Z",
+            "owner": "Chowdhury-DSP",
+            "repo": "BYOD",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maim",
+          "description": "by ArdenButterfield Audio plugin for custom MP3 distortion and digital glitches GPL-3.0 373 1 month󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 623289982,
+            "language": "C",
+            "last_commit": "2026-08-01T04:42:24Z",
+            "owner": "ArdenButterfield",
+            "repo": "Maim",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChowMatrix",
+          "description": "by Chowdhury-DSP Inifinitely growable tree of delay lines BSD-3-Clause 332 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306982242,
+            "language": "C++",
+            "last_commit": "2022-07-16T14:37:08Z",
+            "owner": "Chowdhury-DSP",
+            "repo": "ChowMatrix",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartGuitarPedal",
+          "description": "by GuitarML Neural Network WaveNet modelled guitar pedals Apache-2.0 295 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293258329,
+            "language": "C++",
+            "last_commit": "2022-10-12T17:51:54Z",
+            "owner": "GuitarML",
+            "repo": "SmartGuitarPedal",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTAGDRC",
+          "description": "by p-hlp An audio compressor plugin GPL-3.0 217 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 234916489,
+            "language": "C++",
+            "last_commit": "2020-11-24T21:00:13Z",
+            "owner": "p-hlp",
+            "repo": "CTAGDRC",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mda-plugins-juce",
+          "description": "by hollance Old school MDA freeware plugins reimplemented in JUCE other 196 6 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 402900870,
+            "language": "C",
+            "last_commit": "2026-02-25T22:34:15Z",
+            "owner": "hollance",
+            "repo": "mda-plugins-juce",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "valentine",
+          "description": "by tote-bag-labs An open source compressor meant to pump and breathe GPL-3.0 193 12 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 586660640,
+            "language": "C++",
+            "last_commit": "2025-08-24T16:25:20Z",
+            "owner": "tote-bag-labs",
+            "repo": "valentine",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Schrammel_OJD",
+          "description": "by JanosGit Audio plugin model of a modern classic overdrive pedal GPL-3.0 191 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252985547,
+            "language": "C++",
+            "last_commit": "2023-11-09T22:21:09Z",
+            "owner": "JanosGit",
+            "repo": "Schrammel_OJD",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slPlugins",
+          "description": "by FigBug Large plugin collection from socalabs BSD-3-Clause 154 2 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222273095,
+            "language": "C++",
+            "last_commit": "2026-08-23T23:13:35Z",
+            "owner": "FigBug",
+            "repo": "slPlugins",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoomReverb",
+          "description": "by cvde Algorithmic reverb plugin GPL-3.0 145 11 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 465351782,
+            "language": "C++",
+            "last_commit": "2025-09-15T17:11:38Z",
+            "owner": "cvde",
+            "repo": "RoomReverb",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-reverb",
+          "description": "by szkkng Simple reverb GPL-3.0 125 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 385863582,
+            "language": "C++",
+            "last_commit": "2025-02-18T07:36:25Z",
+            "owner": "szkkng",
+            "repo": "simple-reverb",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleCompressor",
+          "description": "by DanielRudrich Code and theory of a look-ahead compressor / limiter GPL-3.0 116 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 204280544,
+            "language": "C++",
+            "last_commit": "2024-04-17T05:48:42Z",
+            "owner": "DanielRudrich",
+            "repo": "SimpleCompressor",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEL-19",
+          "description": "by Mrugalla High-fidelity random vibrato (windows only) GPL-3.0 99 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315327047,
+            "language": "C++",
+            "last_commit": "2024-09-08T17:14:47Z",
+            "owner": "Mrugalla",
+            "repo": "NEL-19",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vsts",
+          "description": "by unplugred A treasure trove of effects and other fun plugins 95 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 333418544,
+            "language": "C++",
+            "last_commit": "2026-07-06T17:30:34Z",
+            "owner": "unplugred",
+            "repo": "vsts",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SG-323",
+          "description": "by greyboxaudio Authentic emulation of an Ursa Major Stargate 323 Reverb GPL-3.0 93 6 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 563227211,
+            "language": "C++",
+            "last_commit": "2026-02-20T19:19:04Z",
+            "owner": "greyboxaudio",
+            "repo": "SG-323",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cStop",
+          "description": "by calgoheen Tape stop plugin with a few extra goodies GPL-3.0 85 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628815014,
+            "language": "TypeScript",
+            "last_commit": "2026-07-09T11:16:59Z",
+            "owner": "calgoheen",
+            "repo": "cStop",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modEQ",
+          "description": "by tobanteAudio EQ audio plugin with modulation GPL-3.0 82 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147133149,
+            "language": "C++",
+            "last_commit": "2020-06-06T09:31:40Z",
+            "owner": "tobanteAudio",
+            "repo": "modEQ",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHOW",
+          "description": "by Chowdhury-DSP Digital Distortion GPL-3.0 74 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164794878,
+            "language": "C++",
+            "last_commit": "2019-09-23T04:53:14Z",
+            "owner": "Chowdhury-DSP",
+            "repo": "CHOW",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhaseVocoder",
+          "description": "by stekyne Phase Vocoder 71 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31042905,
+            "language": "C++",
+            "last_commit": "2021-10-17T16:11:43Z",
+            "owner": "stekyne",
+            "repo": "PhaseVocoder",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PerceptoMap",
+          "description": "by hqrrr Visualizing how we hear: An open-source spectrogram plugin for psychoacoustic audio analysis AGPL-3.0 70 11 hours󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1017210156,
+            "language": "C++",
+            "last_commit": "2026-08-24T04:52:32Z",
+            "owner": "hqrrr",
+            "repo": "PerceptoMap",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vstSpleeter",
+          "description": "by gvne Uses JUCE and spleeterpp to run spleeter in c++ 67 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252988610,
+            "language": "C++",
+            "last_commit": "2020-05-26T18:38:16Z",
+            "owner": "gvne",
+            "repo": "vstSpleeter",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quantumVerb",
+          "description": "by QVbDev Convolution Reverb GPL-3.0 65 8 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118195849,
+            "language": "C++",
+            "last_commit": "2018-04-11T17:24:17Z",
+            "owner": "QVbDev",
+            "repo": "quantumVerb",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crispy",
+          "description": "by spensbot Audio Saturation Plugin (VST/AU) made with JUCE MIT 64 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250720528,
+            "language": "C++",
+            "last_commit": "2020-07-28T08:54:51Z",
+            "owner": "spensbot",
+            "repo": "crispy",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "repitch",
+          "description": "by ellamenop MIDI controlled harmonizer 63 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211702259,
+            "language": "C++",
+            "last_commit": "2024-09-03T21:00:31Z",
+            "owner": "ellamenop",
+            "repo": "repitch",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anotherdelay",
+          "description": "by dllim Tape Delay plugin with tape flutter, wow, and saturation emulation MIT 50 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155646637,
+            "language": "C++",
+            "last_commit": "2019-02-25T03:15:19Z",
+            "owner": "dllim",
+            "repo": "anotherdelay",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZLEComp",
+          "description": "by ZL-Audio Compressor plugin with gain reduction history GPL-3.0 47 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 669904105,
+            "language": "C++",
+            "last_commit": "2024-08-15T20:06:34Z",
+            "owner": "ZL-Audio",
+            "repo": "ZLEComp",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utility-clone",
+          "description": "by m1m0zzz VST plugin like a Ableton Utility GPL-3.0 34 13 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 773288311,
+            "language": "C++",
+            "last_commit": "2026-08-10T10:44:01Z",
+            "owner": "m1m0zzz",
+            "repo": "utility-clone",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mverb",
+          "description": "by FigBug Dattorro’s figure-of-eight reverb GPL-3.0 32 6 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242999851,
+            "language": "Rich Text Format",
+            "last_commit": "2026-08-23T16:30:59Z",
+            "owner": "FigBug",
+            "repo": "mverb",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMPLComp",
+          "description": "by p-hlp A simplified version of the CTAGDRC audio compressor plugin GPL-3.0 25 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 273454099,
+            "language": "C++",
+            "last_commit": "2020-11-21T18:43:55Z",
+            "owner": "p-hlp",
+            "repo": "SMPLComp",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABComparisonPlugin",
+          "description": "by DanielRudrich An audio-plugin for multi-channel AB-comparison of several input signals GPL-3.0 23 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143531948,
+            "language": "C++",
+            "last_commit": "2024-06-18T01:13:32Z",
+            "owner": "DanielRudrich",
+            "repo": "ABComparisonPlugin",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUCEVocoder",
+          "description": "by dbaylies A simple vocoder plug-in with a built-in synthesis engine 20 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139299404,
+            "language": "C++",
+            "last_commit": "2020-08-22T00:40:51Z",
+            "owner": "dbaylies",
+            "repo": "JUCEVocoder",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OvertoneFilter",
+          "description": "by lukemcraig Emphasize MIDI-selected harmonics of an audio signal 20 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125776146,
+            "language": "C++",
+            "last_commit": "2019-11-10T17:46:27Z",
+            "owner": "lukemcraig",
+            "repo": "OvertoneFilter",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delay",
+          "description": "by joonastuo Delay-effect plugin 15 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171894923,
+            "language": "C++",
+            "last_commit": "2019-04-06T08:03:43Z",
+            "owner": "joonastuo",
+            "repo": "Delay",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contrast",
+          "description": "by ImJimmi Bundle of minimal plug-ins MIT 15 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271794321,
+            "language": "C++",
+            "last_commit": "2023-06-03T21:04:26Z",
+            "owner": "ImJimmi",
+            "repo": "Contrast",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Filter",
+          "description": "by joonastuo A state variable filter plugin 14 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171707864,
+            "language": "C++",
+            "last_commit": "2019-04-06T17:33:57Z",
+            "owner": "joonastuo",
+            "repo": "Filter",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VibraFlanger",
+          "description": "by joonastuo Vibrato/Flanger effect plugin made with JUCE 12 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177107888,
+            "language": "C++",
+            "last_commit": "2019-04-06T14:59:40Z",
+            "owner": "joonastuo",
+            "repo": "VibraFlanger",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ATK-MT2",
+          "description": "by AudioTK Plugin emulating the MT2 pedal 9 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 331451796,
+            "language": "C++",
+            "last_commit": "2021-12-16T22:29:06Z",
+            "owner": "AudioTK",
+            "repo": "ATK-MT2",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phaser",
+          "description": "by joonastuo Phaser-effect plugin 7 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175842338,
+            "language": "C++",
+            "last_commit": "2019-04-06T10:53:31Z",
+            "owner": "joonastuo",
+            "repo": "Phaser",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distortion",
+          "description": "by joonastuo Waveshaper distortion plugin 7 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171893613,
+            "language": "C++",
+            "last_commit": "2019-04-06T16:45:00Z",
+            "owner": "joonastuo",
+            "repo": "Distortion",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lush-Delay",
+          "description": "by spensbot A Delay Plugin Made with JUCE MIT 7 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261078122,
+            "language": "C++",
+            "last_commit": "2020-09-14T05:43:12Z",
+            "owner": "spensbot",
+            "repo": "Lush-Delay",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TS9",
+          "description": "by AudioTK Plugin modeling the well-known Ibanez TS9 TubeScreamer 6 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350113798,
+            "language": "C++",
+            "last_commit": "2022-02-19T08:26:10Z",
+            "owner": "AudioTK",
+            "repo": "TS9",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chorus",
+          "description": "by joonastuo LCR Chorus-effect plugin MIT 5 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177134361,
+            "language": "C++",
+            "last_commit": "2019-04-06T12:27:58Z",
+            "owner": "joonastuo",
+            "repo": "Chorus",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ATKGuitarPreamp",
+          "description": "by AudioTK Plugin modeling a guitar preamplifier followed by a tone stack 4 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 345475545,
+            "language": "C++",
+            "last_commit": "2022-01-09T19:30:30Z",
+            "owner": "AudioTK",
+            "repo": "ATKGuitarPreamp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-audio-filters",
+          "description": "by w-frank Collection of digital audio filter plugins using the JUCE DSP module 3 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 308574142,
+            "language": "Makefile",
+            "last_commit": "2020-10-30T08:55:17Z",
+            "owner": "w-frank",
+            "repo": "juce-audio-filters",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SD1",
+          "description": "by AudioTK Plugin modeling the well-known Boss SD1 3 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346141318,
+            "language": "C++",
+            "last_commit": "2022-02-19T13:24:23Z",
+            "owner": "AudioTK",
+            "repo": "SD1",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ATKBassPreamp",
+          "description": "by AudioTK Plugin modeling a bass preamplifier followed by a tone stack 2 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 345475346,
+            "language": "C++",
+            "last_commit": "2022-01-09T21:46:00Z",
+            "owner": "AudioTK",
+            "repo": "ATKBassPreamp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniversalDelay",
+          "description": "by AudioTK A mono delay plugin 2 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468913652,
+            "language": "C++",
+            "last_commit": "2022-06-19T15:31:45Z",
+            "owner": "AudioTK",
+            "repo": "UniversalDelay",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Andromeda",
+          "description": "by AudioTK A plugin version of the Andromeda version of the Noble ODR-1 1 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350100145,
+            "language": "C++",
+            "last_commit": "2022-03-07T20:11:05Z",
+            "owner": "AudioTK",
+            "repo": "Andromeda",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Effects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frequalizer",
+          "description": "by ffAudio Equalizer using JUCE's dsp module BSD-3-Clause 372 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121448862,
+            "language": "C++",
+            "last_commit": "2024-10-07T15:34:00Z",
+            "owner": "ffAudio",
+            "repo": "Frequalizer",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ff_meters",
+          "description": "by ffAudio LED meters for JUCE audio buffers BSD-3-Clause 122 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83704558,
+            "language": "C++",
+            "last_commit": "2023-09-03T22:37:36Z",
+            "owner": "ffAudio",
+            "repo": "ff_meters",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "equalize_it",
+          "description": "by egor-sm 12-band parametric EQ GPL-3.0 63 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 566700537,
+            "language": "C++",
+            "last_commit": "2023-06-19T18:04:54Z",
+            "owner": "egor-sm",
+            "repo": "equalize_it",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sound_meter",
+          "description": "by SoundDevelopment Resizable efficient peak meters MIT 50 7 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 386042303,
+            "language": "C++",
+            "last_commit": "2026-01-23T19:53:23Z",
+            "owner": "SoundDevelopment",
+            "repo": "sound_meter",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Metering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ShowMIDI",
+          "description": "by gbevin Multi-platform GUI application to effortlessly visualize MIDI activity GPL-3.0 893 23 hours󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 714714286,
+            "language": "C++",
+            "last_commit": "2026-08-22T16:27:50Z",
+            "owner": "gbevin",
+            "repo": "ShowMIDI",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SendMIDI",
+          "description": "by gbevin Cross-platform tool to send MIDI messages from the command line GPL-3.0 845 2 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78890916,
+            "language": "C++",
+            "last_commit": "2026-08-21T12:50:36Z",
+            "owner": "gbevin",
+            "repo": "SendMIDI",
+            "stars": 845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stochas",
+          "description": "by surge-synthesizer Probabilistic sequencer GPL-3.0 554 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285868983,
+            "language": "C++",
+            "last_commit": "2025-02-20T19:12:23Z",
+            "owner": "surge-synthesizer",
+            "repo": "stochas",
+            "stars": 554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReceiveMIDI",
+          "description": "by gbevin Cross-platform tool to monitor and receive MIDI messages on the command line GPL-3.0 374 2 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83163131,
+            "language": "C++",
+            "last_commit": "2026-08-21T12:50:38Z",
+            "owner": "gbevin",
+            "repo": "ReceiveMIDI",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnobKraft-orm",
+          "description": "by christofmuc The free modern cross-platform MIDI Sysex Librarian AGPL-3.0 284 4 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237848538,
+            "language": "C++",
+            "last_commit": "2026-08-03T21:09:36Z",
+            "owner": "christofmuc",
+            "repo": "KnobKraft-orm",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ripchord",
+          "description": "by trackbout Cross platform plugin to create and remix chord progressions GPL-3.0 101 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 440474839,
+            "language": "C++",
+            "last_commit": "2023-05-27T21:48:23Z",
+            "owner": "trackbout",
+            "repo": "ripchord",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "b-step",
+          "description": "by surge-synthesizer Chord sequencer other 63 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470757868,
+            "language": "C++",
+            "last_commit": "2024-07-28T00:49:02Z",
+            "owner": "surge-synthesizer",
+            "repo": "b-step",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arpligner",
+          "description": "by YPares Multi-track & polyphonic arpeggiator where both chords and arp patterns are live MIDI data other 45 3 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 585333343,
+            "language": "C++",
+            "last_commit": "2023-10-11T14:43:53Z",
+            "owner": "YPares",
+            "repo": "arpligner",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Midi-Transposer",
+          "description": "by stfufane Map chords to your MIDI bass pedal MIT 29 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260564632,
+            "language": "C++",
+            "last_commit": "2024-05-24T22:30:17Z",
+            "owner": "stfufane",
+            "repo": "Midi-Transposer",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shuttertone",
+          "description": "by liamlacey Uses colour data from images to generate music GPL-3.0 25 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28462794,
+            "language": "C++",
+            "last_commit": "2020-03-22T15:19:08Z",
+            "owner": "liamlacey",
+            "repo": "Shuttertone",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topiary-Beatz",
+          "description": "by tomto66 A MIDI drum pattern generator for live use GPL-3.0 23 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156986786,
+            "language": "C++",
+            "last_commit": "2022-08-05T07:11:46Z",
+            "owner": "tomto66",
+            "repo": "Topiary-Beatz",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topiary-Riffz",
+          "description": "by tomto66 Plugin that can play MIDI files, assigned to keys, and transposed on a per key basis GPL-3.0 2 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222268291,
+            "language": "C++",
+            "last_commit": "2022-08-05T07:12:46Z",
+            "owner": "tomto66",
+            "repo": "Topiary-Riffz",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topiary-Presetz",
+          "description": "by tomto66 Plugin that lets you define \"variations\" of settings of \"parameters\" and output as Midi GPL-3.0 1 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164002908,
+            "language": "C++",
+            "last_commit": "2022-08-05T07:12:17Z",
+            "owner": "tomto66",
+            "repo": "Topiary-Presetz",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Midi"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tuning-workbench-synth",
+          "description": "by surge-synthesizer Simple microtonal synth GPL-3.0 48 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 243563392,
+            "language": "C++",
+            "last_commit": "2023-04-16T12:55:49Z",
+            "owner": "surge-synthesizer",
+            "repo": "tuning-workbench-synth",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperVirtualKeyboard",
+          "description": "by vsicurella MIDI Plugin for interacting with microtonal piano layouts Unlicense 48 1 month󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179219567,
+            "language": "C++",
+            "last_commit": "2026-07-21T19:51:53Z",
+            "owner": "vsicurella",
+            "repo": "SuperVirtualKeyboard",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "everytone-tuner",
+          "description": "by vsicurella MIDI microtuning plugin Unlicense 17 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 443865154,
+            "language": "C++",
+            "last_commit": "2022-04-25T04:30:48Z",
+            "owner": "vsicurella",
+            "repo": "everytone-tuner",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScaleStructureComponent",
+          "description": "by vsicurella For designing a 2D isomorphic layout based on MOS scales for use with ET tuning systems 2 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 259528859,
+            "language": "C++",
+            "last_commit": "2020-08-30T19:39:33Z",
+            "owner": "vsicurella",
+            "repo": "ScaleStructureComponent",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Microtuning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "foleys_gui_magic",
+          "description": "by ffAudio WYSWYG plugin editor letting you create JUCE GUIs without coding other 589 8 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209666033,
+            "language": "C++",
+            "last_commit": "2026-08-15T19:26:53Z",
+            "owner": "ffAudio",
+            "repo": "foleys_gui_magic",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontaudio",
+          "description": "by fefanto Icon toolkit for audio with permissive licensing MIT 412 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208800621,
+            "language": "C++",
+            "last_commit": "2026-01-21T23:55:34Z",
+            "owner": "fefanto",
+            "repo": "fontaudio",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JIVE",
+          "description": "by ImJimmi Build flexible GUIs using declarative markup MIT 201 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 420261331,
+            "language": "C++",
+            "last_commit": "2026-08-20T12:44:44Z",
+            "owner": "ImJimmi",
+            "repo": "JIVE",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melatonin_blur",
+          "description": "by sudara Fast cross-platform CPU blurs and drop/inner shadows for JUCE MIT 166 3 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 715602497,
+            "language": "C++",
+            "last_commit": "2026-05-26T11:50:35Z",
+            "owner": "sudara",
+            "repo": "melatonin_blur",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animator",
+          "description": "by bgporter Animation module implementing classic easing curves and some new ones MIT 83 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206590051,
+            "language": "C++",
+            "last_commit": "2024-01-02T14:17:55Z",
+            "owner": "bgporter",
+            "repo": "animator",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hack_audio_gui",
+          "description": "by HackAudio Hack Audio's custom components other 31 8 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91506489,
+            "language": "C++",
+            "last_commit": "2018-03-01T02:18:56Z",
+            "owner": "HackAudio",
+            "repo": "hack_audio_gui",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resvg4JUCE",
+          "description": "by JanosGit Wrapper for the resvg rendering library MPL-2.0 29 10 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 294674790,
+            "language": "C++",
+            "last_commit": "2026-03-15T14:17:38Z",
+            "owner": "JanosGit",
+            "repo": "Resvg4JUCE",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-widgets",
+          "description": "by christofmuc Unsorted collection of \"widgets\" MIT 25 9 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 228012633,
+            "language": "C++",
+            "last_commit": "2025-11-16T00:43:09Z",
+            "owner": "christofmuc",
+            "repo": "juce-widgets",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BarelyML",
+          "description": "by MNSignalProcessing Markdown-inspired markup for JUCE MIT 22 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 702218997,
+            "language": "C++",
+            "last_commit": "2024-04-07T17:37:48Z",
+            "owner": "MNSignalProcessing",
+            "repo": "BarelyML",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-draggableListBox",
+          "description": "by getdunne JUCE ListBox whose items can be reordered by drag-and-drop MIT 14 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178883779,
+            "language": "C++",
+            "last_commit": "2021-01-14T21:33:28Z",
+            "owner": "getdunne",
+            "repo": "juce-draggableListBox",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_litehtml",
+          "description": "by Archie3d JUCE module that provides integration of the litehtml HTML/CSS rendering engine 12 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489114553,
+            "language": "C",
+            "last_commit": "2022-05-15T16:21:41Z",
+            "owner": "Archie3d",
+            "repo": "juce_litehtml",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RtfFileLoader",
+          "description": "by hogliux Convert rtf files to xml to create a JUCE AttributedString GPL-3.0 12 9 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98867852,
+            "language": "C++",
+            "last_commit": "2017-07-31T08:45:56Z",
+            "owner": "hogliux",
+            "repo": "RtfFileLoader",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_murka",
+          "description": "by Kiberchaika A lightweight GPU-accelerated library inspired from ImGui for interactive audio plugin UI design for JUCE 9 6 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 354938424,
+            "language": "C++",
+            "last_commit": "2026-03-09T18:26:21Z",
+            "owner": "Kiberchaika",
+            "repo": "juce_murka",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JuceHtmlTextEditor",
+          "description": "by ZioGuido HTML parsing of the basic tags for formatting text and adding hyperlinks 7 8 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334732160,
+            "language": "C++",
+            "last_commit": "2025-12-17T23:07:32Z",
+            "owner": "ZioGuido",
+            "repo": "JuceHtmlTextEditor",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haydxn_juce_animation",
+          "description": "by jkoutavas JUCE animation package originally contributed by 'haydxn' MIT 5 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158110359,
+            "language": "C++",
+            "last_commit": "2018-11-23T01:59:34Z",
+            "owner": "jkoutavas",
+            "repo": "haydxn_juce_animation",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bbcode-editor",
+          "description": "by SoundDevelopment TextEditor descendant that accepts BBCode MIT 5 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 480148221,
+            "language": "C++",
+            "last_commit": "2022-04-11T21:09:03Z",
+            "owner": "SoundDevelopment",
+            "repo": "bbcode-editor",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html_entity_decoder",
+          "description": "by asimilon A simple HTML entity String decoder module for JUCE BSL-1.0 3 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197232382,
+            "language": "C++",
+            "last_commit": "2021-04-19T14:12:22Z",
+            "owner": "asimilon",
+            "repo": "html_entity_decoder",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pluginval",
+          "description": "by Tracktion Cross-platform plugin testing and validation GPL-3.0 575 3 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133796391,
+            "language": "C++",
+            "last_commit": "2026-08-16T15:38:49Z",
+            "owner": "Tracktion",
+            "repo": "pluginval",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FRUT",
+          "description": "by McMartin The OG way to setup CMake with JUCE (pre JUCE 6) GPL-3.0 459 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58878602,
+            "language": "CMake",
+            "last_commit": "2024-09-20T13:28:56Z",
+            "owner": "McMartin",
+            "repo": "FRUT",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melatonin_inspector",
+          "description": "by sudara Inspect your JUCE components ala Web Inspector MIT 288 7 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 358944094,
+            "language": "C++",
+            "last_commit": "2026-08-16T15:09:59Z",
+            "owner": "sudara",
+            "repo": "melatonin_inspector",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "formula",
+          "description": "by soundspear VST and AU plugin to live code and test effects inside your DAW BSL-1.0 243 4 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 442529022,
+            "language": "C++",
+            "last_commit": "2026-04-27T14:30:29Z",
+            "owner": "soundspear",
+            "repo": "formula",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-toys",
+          "description": "by jcredland LLDB helpers. Comoponent, buffer and value tree debuggers and more MIT 135 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22676310,
+            "language": "HTML",
+            "last_commit": "2024-09-25T11:18:40Z",
+            "owner": "jcredland",
+            "repo": "juce-toys",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melatonin_audio_sparklines",
+          "description": "by sudara Display audio as ASCII waveforms on the console and in your tests MIT 104 3 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374182134,
+            "language": "C++",
+            "last_commit": "2026-05-14T13:46:53Z",
+            "owner": "sudara",
+            "repo": "melatonin_audio_sparklines",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSP-Testbench",
+          "description": "by AndrewJJ Test your dsp with signal sources, routing, analysis and monitoring MIT 84 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116782805,
+            "language": "C++",
+            "last_commit": "2025-01-26T23:12:32Z",
+            "owner": "AndrewJJ",
+            "repo": "DSP-Testbench",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Tooling & Debugging"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plugdata",
+          "description": "by plugdata-team Pure Data as a plugin, with a new GUI GPL-3.0 2312 3 hours󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 432598139,
+            "language": "C",
+            "last_commit": "2026-08-24T10:58:32Z",
+            "owner": "plugdata-team",
+            "repo": "plugdata",
+            "stars": 2313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chataigne",
+          "description": "by benkuper Real-time communication and syncing with many other technologies GPL-3.0 1652 9 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72221136,
+            "language": "C++",
+            "last_commit": "2026-08-14T14:38:14Z",
+            "owner": "benkuper",
+            "repo": "Chataigne",
+            "stars": 1652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HISE",
+          "description": "by christophhart The open source framework for sample based instruments other 1417 7 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65835596,
+            "language": "C++",
+            "last_commit": "2026-08-16T08:38:40Z",
+            "owner": "christophhart",
+            "repo": "HISE",
+            "stars": 1417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Camomile",
+          "description": "by pierreguillot A meta-plugin that embeds Pure Data GPL-3.0 989 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39728090,
+            "language": "C++",
+            "last_commit": "2024-02-26T10:06:47Z",
+            "owner": "pierreguillot",
+            "repo": "Camomile",
+            "stars": 989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-juce",
+          "description": "by JoshMarler Cross-platform native apps with React.js and JUCE MIT 834 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192596320,
+            "language": "C",
+            "last_commit": "2024-12-14T12:51:31Z",
+            "owner": "JoshMarler",
+            "repo": "react-juce",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cabbage",
+          "description": "by rorywalsh Framework for developing plugins with the Csound programming language GPL-3.0 573 6 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71112583,
+            "language": "C++",
+            "last_commit": "2026-02-11T10:07:23Z",
+            "owner": "rorywalsh",
+            "repo": "cabbage",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ysfx",
+          "description": "by jpcima JSFX hosting library incl. example plugin Apache-2.0 249 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 424603338,
+            "language": "C++",
+            "last_commit": "2024-07-02T19:26:00Z",
+            "owner": "jpcima",
+            "repo": "ysfx",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugincollider",
+          "description": "by asb2m10 Plugin that embeds SuperCollider GPL-3.0 135 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 426789120,
+            "language": "C++",
+            "last_commit": "2026-07-01T19:53:56Z",
+            "owner": "asb2m10",
+            "repo": "plugincollider",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioTK",
+          "description": "by AudioTK An audio digital processing toolbox based on a workflow/pipeline principle BSD-3-Clause 51 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 331451876,
+            "language": "C++",
+            "last_commit": "2023-05-13T12:38:58Z",
+            "owner": "AudioTK",
+            "repo": "AudioTK",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "none",
+          "description": "by 0x07dc Framework built with JUCE, provides architecture guidance for making a plugin (GUI, Processors, States, State Modifiers) other 3 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 400630338,
+            "language": "C++",
+            "last_commit": "2021-09-02T17:41:23Z",
+            "owner": "0x07dc",
+            "repo": "none",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "faust",
+          "description": "by grame-cncm JUCE standalone app and plugin exporter for Faust DSP library other 3133 3 hours󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72926839,
+            "language": "C++",
+            "last_commit": "2026-08-24T08:48:23Z",
+            "owner": "grame-cncm",
+            "repo": "faust",
+            "stars": 3133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio-Effects",
+          "description": "by juandagilc Collection of Audio Effects examples from a book 887 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111201424,
+            "language": "C++",
+            "last_commit": "2020-10-16T22:00:18Z",
+            "owner": "juandagilc",
+            "repo": "Audio-Effects",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "signalsmith-stretch",
+          "description": "by Signalsmith-Audio Polyphonic pitch/time algorithm MIT 540 7 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 570574600,
+            "language": "JavaScript",
+            "last_commit": "2026-01-24T09:07:32Z",
+            "owner": "Signalsmith-Audio",
+            "repo": "signalsmith-stretch",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dsp",
+          "description": "by Signalsmith-Audio Signalsmith's library of DSP utilities and classes MIT 272 7 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372549775,
+            "language": "C++",
+            "last_commit": "2026-08-23T15:47:44Z",
+            "owner": "Signalsmith-Audio",
+            "repo": "dsp",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "formula",
+          "description": "by soundspear Plugin for developing and testing DSP code in real time using C BSL-1.0 243 4 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 442529022,
+            "language": "C++",
+            "last_commit": "2026-04-27T14:30:29Z",
+            "owner": "soundspear",
+            "repo": "formula",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pitch_detector",
+          "description": "by adamski Pitch estimation based on YIN 149 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44386490,
+            "language": "C++",
+            "last_commit": "2023-01-03T20:51:12Z",
+            "owner": "adamski",
+            "repo": "pitch_detector",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pMix2",
+          "description": "by olilarkin pMix - a preset interpolator, plug-in chainer and Faust IDE written with JUCE 102 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 55134353,
+            "language": "C++",
+            "last_commit": "2019-12-08T14:52:33Z",
+            "owner": "olilarkin",
+            "repo": "pMix2",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_faustllvm",
+          "description": "by olilarkin JUCE Module for embedding the libfaust JIT compiler 38 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55134400,
+            "language": "C++",
+            "last_commit": "2019-12-07T01:06:33Z",
+            "owner": "olilarkin",
+            "repo": "juce_faustllvm",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sst-filters",
+          "description": "by surge-synthesizer Surge filters as a separate library GPL-3.0 33 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 449003848,
+            "language": "C++",
+            "last_commit": "2026-06-30T12:56:41Z",
+            "owner": "surge-synthesizer",
+            "repo": "sst-filters",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mammut",
+          "description": "by kmatheussen Sound transformation using one single gigantic analysis (no windows) 30 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2636263,
+            "language": "C++",
+            "last_commit": "2024-06-30T17:00:08Z",
+            "owner": "kmatheussen",
+            "repo": "mammut",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-MultiStepEnvelopeGenerator",
+          "description": "by getdunne Multi Step Envelope Generator MIT 30 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154733510,
+            "language": "C++",
+            "last_commit": "2023-12-21T14:42:22Z",
+            "owner": "getdunne",
+            "repo": "juce-MultiStepEnvelopeGenerator",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ape",
+          "description": "by jthorborg Plugin that allows programming C++ DSP code in real time 29 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229831816,
+            "language": "C++",
+            "last_commit": "2025-06-08T16:22:32Z",
+            "owner": "jthorborg",
+            "repo": "ape",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sst-waveshapers",
+          "description": "by surge-synthesizer Surge waveshapers as a separate library GPL-3.0 29 6 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 483741961,
+            "language": "C++",
+            "last_commit": "2026-02-25T22:15:11Z",
+            "owner": "surge-synthesizer",
+            "repo": "sst-waveshapers",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleVocoder",
+          "description": "by Stenzel Leaky autocorrelation vocoder 25 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428442286,
+            "language": "C++",
+            "last_commit": "2021-11-15T22:46:02Z",
+            "owner": "Stenzel",
+            "repo": "SimpleVocoder",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OverlappingFFTProcessor",
+          "description": "by DanielRudrich Class for buffering samples for FFT processing AGPL-3.0 16 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133516496,
+            "language": "C++",
+            "last_commit": "2019-09-03T13:26:23Z",
+            "owner": "DanielRudrich",
+            "repo": "OverlappingFFTProcessor",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ob_HIIR",
+          "description": "by AndrewJJ JUCE module wrappler for Laurent DeSoras' upsampling and downsampling library LGPL-2.1 15 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337346805,
+            "language": "C++",
+            "last_commit": "2023-03-19T03:40:55Z",
+            "owner": "AndrewJJ",
+            "repo": "ob_HIIR",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OomphSC",
+          "description": "by DanielRudrich Audio Plug-in which figures out the Oomph of a signal and sends it via OSC GPL-3.0 8 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 462895933,
+            "language": "C++",
+            "last_commit": "2022-04-10T13:49:04Z",
+            "owner": "DanielRudrich",
+            "repo": "OomphSC",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUCE_SoundTouch",
+          "description": "by eyalamirmusic Wrapper around the SoundTouch tempo/pitch library LGPL-2.1 7 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 320894568,
+            "language": "C++",
+            "last_commit": "2020-12-12T19:47:06Z",
+            "owner": "eyalamirmusic",
+            "repo": "JUCE_SoundTouch",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "DSP"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "guidolib",
+          "description": "by grame-cncm Music notation format, score rendering engine and various music score utilities MPL-2.0 180 8 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84543053,
+            "language": "C++",
+            "last_commit": "2025-12-29T07:49:55Z",
+            "owner": "grame-cncm",
+            "repo": "guidolib",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "belle",
+          "description": "by andigamesandmusic Music notation rendering library. Outputs to PDF, JUCE, Core Graphics, MIDI, etc. 96 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10714693,
+            "language": "C++",
+            "last_commit": "2024-05-26T20:08:16Z",
+            "owner": "andigamesandmusic",
+            "repo": "belle",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jackel",
+          "description": "by nberr Negative harmony application other 19 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208696328,
+            "language": "C++",
+            "last_commit": "2022-11-18T23:26:34Z",
+            "owner": "nberr",
+            "repo": "jackel",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foleys_musicology",
+          "description": "by ffAudio Music theory and score editing/rendering 11 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206678390,
+            "language": "C++",
+            "last_commit": "2020-12-10T11:54:53Z",
+            "owner": "ffAudio",
+            "repo": "foleys_musicology",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bach",
+          "description": "by bliston A music theory library JUCE module MIT 9 9 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88527089,
+            "language": "C++",
+            "last_commit": "2017-07-30T22:35:06Z",
+            "owner": "bliston",
+            "repo": "Bach",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Music Notation and Theory"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RestRequest",
+          "description": "by adamski JUCE module for making HTTP requests to REST APIs MIT 64 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48261412,
+            "language": "C++",
+            "last_commit": "2021-01-15T14:10:57Z",
+            "owner": "adamski",
+            "repo": "RestRequest",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yum_CredentialManager",
+          "description": "by Yum-Audio MacOS Keychain and Windows CredentialManager integration MIT 13 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 453128916,
+            "language": "C++",
+            "last_commit": "2024-10-28T03:57:50Z",
+            "owner": "Yum-Audio",
+            "repo": "yum_CredentialManager",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Networking & Cryptography"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CustomMatPlot",
+          "description": "by franshej MatPlotLib implementation in JUCE MIT 89 13 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 486183072,
+            "language": "C++",
+            "last_commit": "2026-08-10T15:33:29Z",
+            "owner": "franshej",
+            "repo": "CustomMatPlot",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imgui_juce",
+          "description": "by Krasjet Dear ImGui backend for JUCE LGPL-3.0 59 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 552227155,
+            "language": "C++",
+            "last_commit": "2025-03-27T15:39:09Z",
+            "owner": "Krasjet",
+            "repo": "imgui_juce",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foleys_video_engine",
+          "description": "by ffAudio A video engine to load, play, assemble and write video other 58 3 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173464965,
+            "language": "C++",
+            "last_commit": "2024-07-17T19:25:57Z",
+            "owner": "ffAudio",
+            "repo": "foleys_video_engine",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vulkan-cpp-library",
+          "description": "by parawave Windows 10 Vulkan support for JUCE 6 other 25 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 366109284,
+            "language": "C++",
+            "last_commit": "2021-05-12T16:58:07Z",
+            "owner": "parawave",
+            "repo": "vulkan-cpp-library",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_bgfx",
+          "description": "by Archie3d bgfx rendering example for JUCE 24 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468443232,
+            "language": "C",
+            "last_commit": "2022-03-10T19:06:28Z",
+            "owner": "Archie3d",
+            "repo": "juce_bgfx",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_nanovg",
+          "description": "by timothyschoen NanoVG graphics module for JUCE 16 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 473797397,
+            "language": "C++",
+            "last_commit": "2023-04-08T14:34:52Z",
+            "owner": "timothyschoen",
+            "repo": "juce_nanovg",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Graphics & Video"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3DAudioVisualizers",
+          "description": "by TimArt An OpenGL Audio Visualizer suite for Audio and GUI 151 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89747701,
+            "language": "C++",
+            "last_commit": "2020-10-29T21:08:22Z",
+            "owner": "TimArt",
+            "repo": "3DAudioVisualizers",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glslEditor_AudioPlugin",
+          "description": "by COx2 GLSL Editor Audio Plugin MIT 74 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80533264,
+            "language": "C++",
+            "last_commit": "2024-10-28T15:37:13Z",
+            "owner": "COx2",
+            "repo": "glslEditor_AudioPlugin",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenGLRealtimeVisualization4JUCE",
+          "description": "by JanosGit OpenGL-accelerated realtime audio visualization components MIT 68 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137757601,
+            "language": "C++",
+            "last_commit": "2019-11-22T13:26:46Z",
+            "owner": "JanosGit",
+            "repo": "OpenGLRealtimeVisualization4JUCE",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LearnJUCEOpenGL",
+          "description": "by ianacaburian Beginner's reference on animated 2D graphics in JUCE using OpenGL 24 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169241817,
+            "language": "C++",
+            "last_commit": "2019-02-08T00:18:28Z",
+            "owner": "ianacaburian",
+            "repo": "LearnJUCEOpenGL",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-midi-visualizer-AU-plugin",
+          "description": "by rosshoyt Generate real-time 3D visualization of MIDI Data using OpenGL MIT 22 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226747167,
+            "language": "C++",
+            "last_commit": "2021-06-25T06:18:35Z",
+            "owner": "rosshoyt",
+            "repo": "juce-midi-visualizer-AU-plugin",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openglWithJuce",
+          "description": "by iomeone OpenGL with JUCE 15 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210979001,
+            "language": "C++",
+            "last_commit": "2019-10-17T11:49:48Z",
+            "owner": "iomeone",
+            "repo": "openglWithJuce",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyline2DExample",
+          "description": "by CrushedPixel A JUCE example application for Polyline2D MIT 14 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167096553,
+            "language": "C++",
+            "last_commit": "2019-01-24T13:57:41Z",
+            "owner": "CrushedPixel",
+            "repo": "Polyline2DExample",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveShaderPalette",
+          "description": "by ianacaburian Live code animated OpenGL shaders and mouse/touch input actions side-by-side GPL-3.0 13 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169816342,
+            "language": "C++",
+            "last_commit": "2019-03-29T15:41:56Z",
+            "owner": "ianacaburian",
+            "repo": "LiveShaderPalette",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyline2DPathRenderer",
+          "description": "by CrushedPixel Renders JUCE Paths very quickly using OpenGL MIT 11 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167184113,
+            "language": "C++",
+            "last_commit": "2019-02-04T19:27:45Z",
+            "owner": "CrushedPixel",
+            "repo": "Polyline2DPathRenderer",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "OpenGL"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "juce-end-to-end",
+          "description": "by FocusriteGroup End to end functional testing via js Apache-2.0 98 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415994364,
+            "language": "C++",
+            "last_commit": "2026-07-01T00:34:22Z",
+            "owner": "FocusriteGroup",
+            "repo": "juce-end-to-end",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TestsTalk",
+          "description": "by Sinecure-Audio Catch2 Examples from ADC 2020 talk 22 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 314315859,
+            "language": "C++",
+            "last_commit": "2020-12-08T01:43:02Z",
+            "owner": "Sinecure-Audio",
+            "repo": "TestsTalk",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melatonin_test_helpers",
+          "description": "by sudara Catch2 matchers for JUCE's MIT 18 3 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374182438,
+            "language": "C++",
+            "last_commit": "2026-05-14T13:47:23Z",
+            "owner": "sudara",
+            "repo": "melatonin_test_helpers",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melatonin_parameters",
+          "description": "by sudara Log parameter conversion and formatting example with tests MIT 16 1 month󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355996157,
+            "language": "C++",
+            "last_commit": "2026-07-18T12:23:35Z",
+            "owner": "sudara",
+            "repo": "melatonin_parameters",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "straw",
+          "description": "by kunitoki Straw is a juce automation framework for integration testing other 5 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 687173181,
+            "language": "C++",
+            "last_commit": "2024-06-14T07:34:13Z",
+            "owner": "kunitoki",
+            "repo": "straw",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "synth-plugin-book",
+          "description": "by hollance Source code for the book \"Code Your Own Synth Plug-Ins With C++ and JUCE\" MIT 218 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534591105,
+            "language": "C++",
+            "last_commit": "2024-06-22T16:06:23Z",
+            "owner": "hollance",
+            "repo": "synth-plugin-book",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce-cookbook",
+          "description": "by tobanteAudio JUCE Cookbook other 130 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190634960,
+            "language": "Makefile",
+            "last_commit": "2020-06-07T19:48:11Z",
+            "owner": "tobanteAudio",
+            "repo": "juce-cookbook",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juceSynthFramework",
+          "description": "by TheAudioProgrammer Build a JUCE synth step by step with Josh 75 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108725451,
+            "language": "C++",
+            "last_commit": "2019-03-12T09:24:11Z",
+            "owner": "TheAudioProgrammer",
+            "repo": "juceSynthFramework",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio-effects",
+          "description": "by getdunne Revised versions of Reiss and McPherson's \"Audio Effects\" examples GPL-3.0 69 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171343223,
+            "language": "C++",
+            "last_commit": "2019-09-09T13:00:41Z",
+            "owner": "getdunne",
+            "repo": "audio-effects",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio-dsp",
+          "description": "by prayash Playing around with audio plugin development and DSP 47 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174090281,
+            "language": "C++",
+            "last_commit": "2019-09-25T02:10:56Z",
+            "owner": "prayash",
+            "repo": "audio-dsp",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugex",
+          "description": "by belangeo PLUGin EXamples made with JUCE LGPL-3.0 43 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217327629,
+            "language": "C++",
+            "last_commit": "2020-04-20T02:13:09Z",
+            "owner": "belangeo",
+            "repo": "plugex",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plugin-ci-example",
+          "description": "by jatinchowdhury18 JUCE plugin CI examples for Gitlab, GitHub, Azure BSD-3-Clause 22 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 422290580,
+            "language": "Shell",
+            "last_commit": "2022-06-21T17:56:22Z",
+            "owner": "jatinchowdhury18",
+            "repo": "plugin-ci-example",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Juce-Simples-Exemples",
+          "description": "by nseaSeb Simples Juce Exemples GPL-3.0 9 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163587147,
+            "language": "C++",
+            "last_commit": "2019-12-26T19:29:52Z",
+            "owner": "nseaSeb",
+            "repo": "Juce-Simples-Exemples",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Educational"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pedalboard",
+          "description": "by spotify A Python library and host for manipulating audio GPL-3.0 6275 13 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383471193,
+            "language": "C++",
+            "last_commit": "2026-08-10T23:19:35Z",
+            "owner": "spotify",
+            "repo": "pedalboard",
+            "stars": 6276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "element",
+          "description": "by kushview The audio plugin host that isn't a DAW! 1685 1 day󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216897669,
+            "language": "C++",
+            "last_commit": "2026-08-23T02:52:22Z",
+            "owner": "kushview",
+            "repo": "element",
+            "stars": 1685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tracktion_engine",
+          "description": "by Tracktion The one, the only, the engine that JUCE was once extracted from other 1429 20 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156860418,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:13:21Z",
+            "owner": "Tracktion",
+            "repo": "tracktion_engine",
+            "stars": 1429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DawDreamer",
+          "description": "by DBraun Python DAW with full cross platform support GPL-3.0 1284 11 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 284760653,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:02:05Z",
+            "owner": "DBraun",
+            "repo": "DawDreamer",
+            "stars": 1285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OwlPlug",
+          "description": "by DropSnorz Cross-platform plugin manager GPL-3.0 505 13 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116010727,
+            "language": "Java",
+            "last_commit": "2026-08-10T20:53:08Z",
+            "owner": "DropSnorz",
+            "repo": "OwlPlug",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RenderMan",
+          "description": "by fedden Interactive \"command line\" host backed by Maximilian Unlicense 397 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82790125,
+            "language": "C++",
+            "last_commit": "2021-12-02T21:11:26Z",
+            "owner": "fedden",
+            "repo": "RenderMan",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plugalyzer",
+          "description": "by CrushedPixel Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins GPL-3.0 189 3 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 498551904,
+            "language": "C++",
+            "last_commit": "2026-06-01T09:19:47Z",
+            "owner": "CrushedPixel",
+            "repo": "Plugalyzer",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PluginRunner",
+          "description": "by jatinchowdhury18 Run audio through a plugin from the CLI on windows WTFPL 14 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226758290,
+            "language": "C++",
+            "last_commit": "2020-01-08T19:24:04Z",
+            "owner": "jatinchowdhury18",
+            "repo": "PluginRunner",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Hosts & DAWs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MIDI2LR",
+          "description": "by rsjaffe An application and plugin to remotely control Lightroom via MIDI GPL-3.0 772 24 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41920505,
+            "language": "Lua",
+            "last_commit": "2026-07-30T19:02:41Z",
+            "owner": "rsjaffe",
+            "repo": "MIDI2LR",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clap-juce-extensions",
+          "description": "by free-audio CLAP plugin support MIT 208 18 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 440544917,
+            "language": "C++",
+            "last_commit": "2026-08-05T17:25:22Z",
+            "owner": "free-audio",
+            "repo": "clap-juce-extensions",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "popsicle",
+          "description": "by kunitoki Bridging JUCE to python other 203 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272198594,
+            "language": "C++",
+            "last_commit": "2024-07-15T10:29:24Z",
+            "owner": "kunitoki",
+            "repo": "popsicle",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luce",
+          "description": "by peersuasive LUA GUI module (unmaintained) 128 10 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15366425,
+            "language": "C++",
+            "last_commit": "2016-08-28T14:29:46Z",
+            "owner": "peersuasive",
+            "repo": "luce",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JucyFluttering",
+          "description": "by audiooffler Flutter for iOS and Android frontend GPL-3.0 124 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298602723,
+            "language": "C",
+            "last_commit": "2021-03-19T15:41:37Z",
+            "owner": "audiooffler",
+            "repo": "JucyFluttering",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AbletonLink_JuceSampler",
+          "description": "by ianacaburian Tutorial on tempo synchronization with Ableton Link 75 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151825109,
+            "language": "C++",
+            "last_commit": "2019-01-14T16:24:56Z",
+            "owner": "ianacaburian",
+            "repo": "AbletonLink_JuceSampler",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osmid",
+          "description": "by llloret MIDI <-> OSC conversion used by Sonic Pi other 75 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62414398,
+            "language": "C++",
+            "last_commit": "2021-10-06T11:40:57Z",
+            "owner": "llloret",
+            "repo": "osmid",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tomduncalf_juce_web_ui",
+          "description": "by tomduncalf WIP: Helper classes for integrating a web-based UI with JUCE MIT 65 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368602599,
+            "language": "C++",
+            "last_commit": "2021-05-26T08:56:02Z",
+            "owner": "tomduncalf",
+            "repo": "tomduncalf_juce_web_ui",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebUISynth",
+          "description": "by tomduncalf Example of WIP: A simple JUCE synth with a web (React/Typescript) UI MIT 45 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 366630125,
+            "language": "C++",
+            "last_commit": "2021-10-23T13:41:57Z",
+            "owner": "tomduncalf",
+            "repo": "WebUISynth",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TD-JUCE",
+          "description": "by DBraun TD-JUCE: JUCE audio and VSTs in TouchDesigner other 41 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288596870,
+            "language": "C++",
+            "last_commit": "2021-05-11T04:58:38Z",
+            "owner": "DBraun",
+            "repo": "TD-JUCE",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freesound-juce",
+          "description": "by MTG Freesound.org API implementation MIT 38 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190720159,
+            "language": "C++",
+            "last_commit": "2021-11-25T15:36:23Z",
+            "owner": "MTG",
+            "repo": "freesound-juce",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qt_with_juce_example",
+          "description": "by nikeocom Example project using Qt and JUCE together 22 6 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221801223,
+            "language": "C++",
+            "last_commit": "2019-11-30T14:25:35Z",
+            "owner": "nikeocom",
+            "repo": "qt_with_juce_example",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_meets_link",
+          "description": "by COx2 An integration example of Ableton Link with JUCE GPL-3.0 20 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114667746,
+            "language": "CMake",
+            "last_commit": "2021-08-01T16:57:13Z",
+            "owner": "COx2",
+            "repo": "juce_meets_link",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aap-juce",
+          "description": "by atsushieno Android Audio Plugin (AAP) support with lots of plugin ports AGPL-3.0 20 1 month󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247669577,
+            "language": "C",
+            "last_commit": "2026-07-21T11:08:50Z",
+            "owner": "atsushieno",
+            "repo": "aap-juce",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreesoundSimpleSampler",
+          "description": "by ffont Sampler plugin which demonstrates the Freesound-JUCE API client GPL-3.0 12 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207589434,
+            "language": "C++",
+            "last_commit": "2020-08-26T09:50:41Z",
+            "owner": "ffont",
+            "repo": "FreesoundSimpleSampler",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_meets_DaisySP",
+          "description": "by COx2 Example of integration of DaisySP and JUCE MIT 11 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 364607532,
+            "language": "CMake",
+            "last_commit": "2021-08-01T16:56:47Z",
+            "owner": "COx2",
+            "repo": "juce_meets_DaisySP",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jlv2",
+          "description": "by lvtk LV2 plugin hosting other 11 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 14386092,
+            "language": "Python",
+            "last_commit": "2022-08-19T17:00:26Z",
+            "owner": "lvtk",
+            "repo": "jlv2",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ddsp-vst",
+          "description": "by magenta Realtime DDSP Neural Synthesizer and Effect Apache-2.0 826 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 490840112,
+            "language": "C++",
+            "last_commit": "2023-08-07T08:19:05Z",
+            "owner": "magenta",
+            "repo": "ddsp-vst",
+            "stars": 827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scyclone",
+          "description": "by Torsion-Audio Real-time Neural Timbre Transfer plugin based on RAVE other 443 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618539027,
+            "language": "C++",
+            "last_commit": "2026-07-26T19:03:08Z",
+            "owner": "Torsion-Audio",
+            "repo": "Scyclone",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KlonCentaur",
+          "description": "by jatinchowdhury18 Analog guitar pedal emulation using the RTNeural real time framework BSD-3-Clause 380 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 265046001,
+            "language": "C++",
+            "last_commit": "2021-09-30T04:26:33Z",
+            "owner": "jatinchowdhury18",
+            "repo": "KlonCentaur",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rave_vst",
+          "description": "by acids-ircam Realtime Audio Variational autoEncoder (RAVE) packaged as a vst other 191 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 477663334,
+            "language": "C++",
+            "last_commit": "2023-06-21T15:02:16Z",
+            "owner": "acids-ircam",
+            "repo": "rave_vst",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micro-tcn",
+          "description": "by csteinmetz1 Efficient real-time modeling of analog dynamic range compression Apache-2.0 174 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 322360285,
+            "language": "Python",
+            "last_commit": "2022-06-09T14:46:02Z",
+            "owner": "csteinmetz1",
+            "repo": "micro-tcn",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "infermux",
+          "description": "by greynewell Local LLMs in your DAW in VST, AU, AAX with llama.cpp MIT 95 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 857177131,
+            "language": "Go",
+            "last_commit": "2026-07-03T19:24:06Z",
+            "owner": "greynewell",
+            "repo": "infermux",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlowVST",
+          "description": "by Cyril-Meyer Example of using a TensorFlow Keras model in a VST 18 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 405393817,
+            "language": "C++",
+            "last_commit": "2021-09-11T17:56:28Z",
+            "owner": "Cyril-Meyer",
+            "repo": "TensorFlowVST",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "push2-display-with-juce",
+          "description": "by Ableton Ableton Push 2 display example (archived repo) MIT 152 5 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 79891133,
+            "language": "C++",
+            "last_commit": "2021-07-28T09:31:03Z",
+            "owner": "Ableton",
+            "repo": "push2-display-with-juce",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_serialport",
+          "description": "by cpr2323 Access hardware serial ports or USB virtual serial ports 48 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170921678,
+            "language": "C++",
+            "last_commit": "2023-05-07T02:00:05Z",
+            "owner": "cpr2323",
+            "repo": "juce_serialport",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolarDesigner",
+          "description": "by AustrianAudioGmbH control the polar pattern of your OC818 or other dual-diaphragm mic GPL-3.0 38 3 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178277810,
+            "language": "C",
+            "last_commit": "2026-08-04T06:23:11Z",
+            "owner": "AustrianAudioGmbH",
+            "repo": "PolarDesigner",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sysex77",
+          "description": "by nseaSeb Midi editor for the Yamaha Sy77/TG77/Sy99 FMSynth 22 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170392221,
+            "language": "C++",
+            "last_commit": "2026-07-01T19:15:04Z",
+            "owner": "nseaSeb",
+            "repo": "Sysex77",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BCR2000_Master",
+          "description": "by christofmuc Small program for working with the Behringer BCR2000 MIDI controller and its BCL language AGPL-3.0 17 3 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231680301,
+            "language": "C++",
+            "last_commit": "2023-01-04T13:32:30Z",
+            "owner": "christofmuc",
+            "repo": "BCR2000_Master",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AmbiCreator",
+          "description": "by AustrianAudioGmbH Record first-order Ambisonics using two OC818 microphones 15 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267547663,
+            "language": "C",
+            "last_commit": "2026-07-06T04:44:20Z",
+            "owner": "AustrianAudioGmbH",
+            "repo": "AmbiCreator",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meeblip-controller",
+          "description": "by rclement Midi controller for the Meeblip Anode synth GPL-3.0 12 7 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157288996,
+            "language": "C++",
+            "last_commit": "2018-12-02T15:54:41Z",
+            "owner": "rclement",
+            "repo": "meeblip-controller",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StereoCreator",
+          "description": "by AustrianAudioGmbH Create different stereo set-ups with one or two OC818 microphones GPL-3.0 6 2 months󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321986618,
+            "language": "C++",
+            "last_commit": "2026-08-17T08:23:45Z",
+            "owner": "AustrianAudioGmbH",
+            "repo": "StereoCreator",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sonobus",
+          "description": "by sonosaurus Real-time network audio streaming collaboration tool GPL-3.0 2165 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 283667621,
+            "language": "C++",
+            "last_commit": "2026-07-21T02:33:33Z",
+            "owner": "sonosaurus",
+            "repo": "sonobus",
+            "stars": 2167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audiogridder",
+          "description": "by apohl79 Offload dsp processing to remote computers MIT 880 2 years🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246856173,
+            "language": "C++",
+            "last_commit": "2024-07-31T08:38:20Z",
+            "owner": "apohl79",
+            "repo": "audiogridder",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JammerNetz",
+          "description": "by christofmuc Host a jam session over the internet AGPL-3.0 61 3 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 212572181,
+            "language": "C++",
+            "last_commit": "2026-08-24T09:14:33Z",
+            "owner": "christofmuc",
+            "repo": "JammerNetz",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_bluetooth",
+          "description": "by genkiinstruments Bluetooth LE module for MacOS and Windows MIT 27 1 year🟠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 604177829,
+            "language": "C++",
+            "last_commit": "2025-12-18T10:36:27Z",
+            "owner": "genkiinstruments",
+            "repo": "juce_bluetooth",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "293 entries as of 2026-08-23",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yup",
+          "description": "by kunitoki Liberally licensed standalone framework with modern rendering forked from JUCE7 other 171 4 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 790711037,
+            "language": "C++",
+            "last_commit": "2026-08-19T23:18:36Z",
+            "owner": "kunitoki",
+            "repo": "yup",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUCE_ARA",
+          "description": "by Celemony JUCE fork that provides Audio Random Access (ARA) support other 48 6 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147498724,
+            "language": "C++",
+            "last_commit": "2026-08-17T11:07:44Z",
+            "owner": "Celemony",
+            "repo": "JUCE_ARA",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUCE",
+          "description": "by soundradix Fork with AAX AudioSuite support and other features and fixes other 23 28 days󠀠󠀠🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3896181,
+            "language": "C++",
+            "last_commit": "2026-08-16T09:13:28Z",
+            "owner": "soundradix",
+            "repo": "JUCE",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juce_emscripten",
+          "description": "by Casperaki Port of JUCE for the browser via Emscripten (maintained) other 9 4 years🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 493757840,
+            "language": "C++",
+            "last_commit": "2022-09-02T17:07:10Z",
+            "owner": "Casperaki",
+            "repo": "juce_emscripten",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Forks"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T01:51:23.710Z",
+    "last_updated": "2026-08-24T14:13:11.002Z",
     "original_repository": "sudara/awesome-juce",
     "original_repository_id": 489955136,
     "original_repository_sha": "75dc0a88cf4c47d3acb3daf3a23596899c4cc522",
