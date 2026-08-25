@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "stk_wrapper",
-          "description": "by adamski JUCE wrapper module for the Synthesis ToolKit (STK) library 31 8 years🔴",
+          "description": "by adamski JUCE wrapper module for the Synthesis ToolKit (STK) library  31 8 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -177,7 +177,7 @@
         {
           "node_type": "item",
           "title": "JUCECmakeRepoPrototype",
-          "description": "by eyalamirmusic Large variety of JUCE and CMake plugin and app templates 295 9 months󠀠󠀠🟢",
+          "description": "by eyalamirmusic Large variety of JUCE and CMake plugin and app templates  295 9 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -237,7 +237,7 @@
         {
           "node_type": "item",
           "title": "juce_cmake_vscode_example",
-          "description": "by tomoyanonymous Boilerplate for developing plugins with JUCE, CMake & VSCode 111 1 year🟠",
+          "description": "by tomoyanonymous Boilerplate for developing plugins with JUCE, CMake & VSCode  111 1 year🟠",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -267,7 +267,7 @@
         {
           "node_type": "item",
           "title": "juce-plugin-ci",
-          "description": "by ellamenop (Archived) CI for JUCE audio plugins with GitHub Actions 65 3 years🔴",
+          "description": "by ellamenop (Archived) CI for JUCE audio plugins with GitHub Actions  65 3 years🔴",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -297,7 +297,7 @@
         {
           "node_type": "item",
           "title": "JUCE-ConsoleApp",
-          "description": "by eyalamirmusic A JUCE example for CLI/console app along with the message thread 4 2 years🟠",
+          "description": "by eyalamirmusic A JUCE example for CLI/console app along with the message thread  4 2 years🟠",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-13T12:36:29Z",
             "owner": "tiagolr",
             "repo": "ripplerx",
-            "stars": 629
+            "stars": 630
           }
         },
         {
@@ -543,7 +543,7 @@
         {
           "node_type": "item",
           "title": "OB-Xd",
-          "description": "by reales Virtual Analog modelled Oberheim OB-X with a few extras 256 6 days󠀠󠀠🟢",
+          "description": "by reales Virtual Analog modelled Oberheim OB-X with a few extras  256 6 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -813,7 +813,7 @@
         {
           "node_type": "item",
           "title": "BatSynth",
-          "description": "by Emmet-Hayes 2 oscillators with 13 wave shapes 20 8 months󠀠󠀠🟢",
+          "description": "by Emmet-Hayes 2 oscillators with 13 wave shapes  20 8 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -843,7 +843,7 @@
         {
           "node_type": "item",
           "title": "juce-synth",
-          "description": "by w-frank A MIDI controlled subtractive synthesiser built using JUCE and the Maximillian library 12 6 years🔴",
+          "description": "by w-frank A MIDI controlled subtractive synthesiser built using JUCE and the Maximillian library  12 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -858,7 +858,7 @@
         {
           "node_type": "item",
           "title": "BowedStringJUCE",
-          "description": "by SilvinWillemsen Bowed String 11 8 years🔴",
+          "description": "by SilvinWillemsen Bowed String  11 8 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -873,7 +873,7 @@
         {
           "node_type": "item",
           "title": "blue-synthesiser",
-          "description": "by mariusz96 Bachelor's thesis \"Sound synthesis based on audio samples as an VST3 instrument\" 10 4 years🔴",
+          "description": "by mariusz96 Bachelor's thesis \"Sound synthesis based on audio samples as an VST3 instrument\"  10 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -918,7 +918,7 @@
         {
           "node_type": "item",
           "title": "juce-string-model",
-          "description": "by w-frank Realistic string instrument model using physical modelling and includes a delay line 7 6 years🔴",
+          "description": "by w-frank Realistic string instrument model using physical modelling and includes a delay line  7 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1014,7 +1014,7 @@
         {
           "node_type": "item",
           "title": "Soompler",
-          "description": "by abbysoft-team Soompler, a JUCE based sampler plugin 37 6 years🔴",
+          "description": "by abbysoft-team Soompler, a JUCE based sampler plugin  37 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1044,7 +1044,7 @@
         {
           "node_type": "item",
           "title": "CTAG-JUCE-Sampler",
-          "description": "by NiklasWan CTAG JUCE sampler 27 6 years🔴",
+          "description": "by NiklasWan CTAG JUCE sampler  27 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1380,7 +1380,7 @@
         {
           "node_type": "item",
           "title": "vsts",
-          "description": "by unplugred A treasure trove of effects and other fun plugins 95 2 months󠀠󠀠🟢",
+          "description": "by unplugred A treasure trove of effects and other fun plugins  95 2 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1455,7 +1455,7 @@
         {
           "node_type": "item",
           "title": "PhaseVocoder",
-          "description": "by stekyne Phase Vocoder 71 5 years🔴",
+          "description": "by stekyne Phase Vocoder  71 5 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1476,7 +1476,7 @@
             "archived": false,
             "id": 1017210156,
             "language": "C++",
-            "last_commit": "2026-08-24T04:52:32Z",
+            "last_commit": "2026-08-25T04:45:16Z",
             "owner": "hqrrr",
             "repo": "PerceptoMap",
             "stars": 71
@@ -1485,7 +1485,7 @@
         {
           "node_type": "item",
           "title": "vstSpleeter",
-          "description": "by gvne Uses JUCE and spleeterpp to run spleeter in c++ 67 6 years🔴",
+          "description": "by gvne Uses JUCE and spleeterpp to run spleeter in c++  67 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1530,7 +1530,7 @@
         {
           "node_type": "item",
           "title": "repitch",
-          "description": "by ellamenop MIDI controlled harmonizer 63 4 years🔴",
+          "description": "by ellamenop MIDI controlled harmonizer  63 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1635,7 +1635,7 @@
         {
           "node_type": "item",
           "title": "JUCEVocoder",
-          "description": "by dbaylies A simple vocoder plug-in with a built-in synthesis engine 20 6 years🔴",
+          "description": "by dbaylies A simple vocoder plug-in with a built-in synthesis engine  20 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1650,7 +1650,7 @@
         {
           "node_type": "item",
           "title": "OvertoneFilter",
-          "description": "by lukemcraig Emphasize MIDI-selected harmonics of an audio signal 20 7 years🔴",
+          "description": "by lukemcraig Emphasize MIDI-selected harmonics of an audio signal  20 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1665,7 +1665,7 @@
         {
           "node_type": "item",
           "title": "Delay",
-          "description": "by joonastuo Delay-effect plugin 15 7 years🔴",
+          "description": "by joonastuo Delay-effect plugin  15 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1695,7 +1695,7 @@
         {
           "node_type": "item",
           "title": "Filter",
-          "description": "by joonastuo A state variable filter plugin 14 7 years🔴",
+          "description": "by joonastuo A state variable filter plugin  14 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1710,7 +1710,7 @@
         {
           "node_type": "item",
           "title": "VibraFlanger",
-          "description": "by joonastuo Vibrato/Flanger effect plugin made with JUCE 12 7 years🔴",
+          "description": "by joonastuo Vibrato/Flanger effect plugin made with JUCE  12 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1725,7 +1725,7 @@
         {
           "node_type": "item",
           "title": "ATK-MT2",
-          "description": "by AudioTK Plugin emulating the MT2 pedal 9 4 years🔴",
+          "description": "by AudioTK Plugin emulating the MT2 pedal  9 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1740,7 +1740,7 @@
         {
           "node_type": "item",
           "title": "Phaser",
-          "description": "by joonastuo Phaser-effect plugin 7 7 years🔴",
+          "description": "by joonastuo Phaser-effect plugin  7 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1755,7 +1755,7 @@
         {
           "node_type": "item",
           "title": "Distortion",
-          "description": "by joonastuo Waveshaper distortion plugin 7 7 years🔴",
+          "description": "by joonastuo Waveshaper distortion plugin  7 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1785,7 +1785,7 @@
         {
           "node_type": "item",
           "title": "TS9",
-          "description": "by AudioTK Plugin modeling the well-known Ibanez TS9 TubeScreamer 6 4 years🔴",
+          "description": "by AudioTK Plugin modeling the well-known Ibanez TS9 TubeScreamer  6 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1815,7 +1815,7 @@
         {
           "node_type": "item",
           "title": "ATKGuitarPreamp",
-          "description": "by AudioTK Plugin modeling a guitar preamplifier followed by a tone stack 4 4 years🔴",
+          "description": "by AudioTK Plugin modeling a guitar preamplifier followed by a tone stack  4 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1830,7 +1830,7 @@
         {
           "node_type": "item",
           "title": "juce-audio-filters",
-          "description": "by w-frank Collection of digital audio filter plugins using the JUCE DSP module 3 6 years🔴",
+          "description": "by w-frank Collection of digital audio filter plugins using the JUCE DSP module  3 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1845,7 +1845,7 @@
         {
           "node_type": "item",
           "title": "SD1",
-          "description": "by AudioTK Plugin modeling the well-known Boss SD1 3 4 years🔴",
+          "description": "by AudioTK Plugin modeling the well-known Boss SD1  3 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1860,7 +1860,7 @@
         {
           "node_type": "item",
           "title": "ATKBassPreamp",
-          "description": "by AudioTK Plugin modeling a bass preamplifier followed by a tone stack 2 4 years🔴",
+          "description": "by AudioTK Plugin modeling a bass preamplifier followed by a tone stack  2 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1875,7 +1875,7 @@
         {
           "node_type": "item",
           "title": "UniversalDelay",
-          "description": "by AudioTK A mono delay plugin 2 4 years🔴",
+          "description": "by AudioTK A mono delay plugin  2 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1890,7 +1890,7 @@
         {
           "node_type": "item",
           "title": "Andromeda",
-          "description": "by AudioTK A plugin version of the Andromeda version of the Noble ODR-1 1 4 years🔴",
+          "description": "by AudioTK A plugin version of the Andromeda version of the Noble ODR-1  1 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2223,7 +2223,7 @@
         {
           "node_type": "item",
           "title": "ScaleStructureComponent",
-          "description": "by vsicurella For designing a 2D isomorphic layout based on MOS scales for use with ET tuning systems 2 6 years🔴",
+          "description": "by vsicurella For designing a 2D isomorphic layout based on MOS scales for use with ET tuning systems  2 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2394,7 +2394,7 @@
         {
           "node_type": "item",
           "title": "juce_litehtml",
-          "description": "by Archie3d JUCE module that provides integration of the litehtml HTML/CSS rendering engine 12 4 years🔴",
+          "description": "by Archie3d JUCE module that provides integration of the litehtml HTML/CSS rendering engine  12 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2424,7 +2424,7 @@
         {
           "node_type": "item",
           "title": "juce_murka",
-          "description": "by Kiberchaika A lightweight GPU-accelerated library inspired from ImGui for interactive audio plugin UI design for JUCE 9 6 months󠀠󠀠🟢",
+          "description": "by Kiberchaika A lightweight GPU-accelerated library inspired from ImGui for interactive audio plugin UI design for JUCE  9 6 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2439,7 +2439,7 @@
         {
           "node_type": "item",
           "title": "JuceHtmlTextEditor",
-          "description": "by ZioGuido HTML parsing of the basic tags for formatting text and adding hyperlinks 7 8 months󠀠󠀠🟢",
+          "description": "by ZioGuido HTML parsing of the basic tags for formatting text and adding hyperlinks  7 8 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2787,7 +2787,7 @@
         {
           "node_type": "item",
           "title": "Audio-Effects",
-          "description": "by juandagilc Collection of Audio Effects examples from a book 887 6 years🔴",
+          "description": "by juandagilc Collection of Audio Effects examples from a book  887 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2826,7 +2826,7 @@
             "last_commit": "2026-08-23T15:47:44Z",
             "owner": "Signalsmith-Audio",
             "repo": "dsp",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -2847,7 +2847,7 @@
         {
           "node_type": "item",
           "title": "pitch_detector",
-          "description": "by adamski Pitch estimation based on YIN 149 4 years🔴",
+          "description": "by adamski Pitch estimation based on YIN  149 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2862,7 +2862,7 @@
         {
           "node_type": "item",
           "title": "pMix2",
-          "description": "by olilarkin pMix - a preset interpolator, plug-in chainer and Faust IDE written with JUCE 102 6 years🔴",
+          "description": "by olilarkin pMix - a preset interpolator, plug-in chainer and Faust IDE written with JUCE  102 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2877,7 +2877,7 @@
         {
           "node_type": "item",
           "title": "juce_faustllvm",
-          "description": "by olilarkin JUCE Module for embedding the libfaust JIT compiler 38 6 years🔴",
+          "description": "by olilarkin JUCE Module for embedding the libfaust JIT compiler  38 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2907,7 +2907,7 @@
         {
           "node_type": "item",
           "title": "mammut",
-          "description": "by kmatheussen Sound transformation using one single gigantic analysis (no windows) 30 2 years🟠",
+          "description": "by kmatheussen Sound transformation using one single gigantic analysis (no windows)  30 2 years🟠",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2937,7 +2937,7 @@
         {
           "node_type": "item",
           "title": "ape",
-          "description": "by jthorborg Plugin that allows programming C++ DSP code in real time 29 1 year🟠",
+          "description": "by jthorborg Plugin that allows programming C++ DSP code in real time  29 1 year🟠",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2967,7 +2967,7 @@
         {
           "node_type": "item",
           "title": "SimpleVocoder",
-          "description": "by Stenzel Leaky autocorrelation vocoder 25 5 years🔴",
+          "description": "by Stenzel Leaky autocorrelation vocoder  25 5 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3063,7 +3063,7 @@
         {
           "node_type": "item",
           "title": "belle",
-          "description": "by andigamesandmusic Music notation rendering library. Outputs to PDF, JUCE, Core Graphics, MIDI, etc. 96 2 years🟠",
+          "description": "by andigamesandmusic Music notation rendering library. Outputs to PDF, JUCE, Core Graphics, MIDI, etc.  96 2 years🟠",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3093,7 +3093,7 @@
         {
           "node_type": "item",
           "title": "foleys_musicology",
-          "description": "by ffAudio Music theory and score editing/rendering 11 5 years🔴",
+          "description": "by ffAudio Music theory and score editing/rendering  11 5 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3225,7 +3225,7 @@
         {
           "node_type": "item",
           "title": "juce_bgfx",
-          "description": "by Archie3d bgfx rendering example for JUCE 24 4 years🔴",
+          "description": "by Archie3d bgfx rendering example for JUCE  24 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3240,7 +3240,7 @@
         {
           "node_type": "item",
           "title": "juce_nanovg",
-          "description": "by timothyschoen NanoVG graphics module for JUCE 16 4 years🔴",
+          "description": "by timothyschoen NanoVG graphics module for JUCE  16 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3261,7 +3261,7 @@
         {
           "node_type": "item",
           "title": "3DAudioVisualizers",
-          "description": "by TimArt An OpenGL Audio Visualizer suite for Audio and GUI 151 6 years🔴",
+          "description": "by TimArt An OpenGL Audio Visualizer suite for Audio and GUI  151 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3306,7 +3306,7 @@
         {
           "node_type": "item",
           "title": "LearnJUCEOpenGL",
-          "description": "by ianacaburian Beginner's reference on animated 2D graphics in JUCE using OpenGL 24 7 years🔴",
+          "description": "by ianacaburian Beginner's reference on animated 2D graphics in JUCE using OpenGL  24 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3336,7 +3336,7 @@
         {
           "node_type": "item",
           "title": "openglWithJuce",
-          "description": "by iomeone OpenGL with JUCE 15 7 years🔴",
+          "description": "by iomeone OpenGL with JUCE  15 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3417,7 +3417,7 @@
         {
           "node_type": "item",
           "title": "TestsTalk",
-          "description": "by Sinecure-Audio Catch2 Examples from ADC 2020 talk 22 5 years🔴",
+          "description": "by Sinecure-Audio Catch2 Examples from ADC 2020 talk  22 5 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3513,7 +3513,7 @@
         {
           "node_type": "item",
           "title": "juceSynthFramework",
-          "description": "by TheAudioProgrammer Build a JUCE synth step by step with Josh 75 7 years🔴",
+          "description": "by TheAudioProgrammer Build a JUCE synth step by step with Josh  75 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3543,7 +3543,7 @@
         {
           "node_type": "item",
           "title": "audio-dsp",
-          "description": "by prayash Playing around with audio plugin development and DSP 47 7 years🔴",
+          "description": "by prayash Playing around with audio plugin development and DSP  47 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3624,7 +3624,7 @@
         {
           "node_type": "item",
           "title": "element",
-          "description": "by kushview The audio plugin host that isn't a DAW! 1685 3 days󠀠󠀠🟢",
+          "description": "by kushview The audio plugin host that isn't a DAW!  1685 3 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3708,7 +3708,7 @@
             "last_commit": "2026-06-01T09:19:47Z",
             "owner": "CrushedPixel",
             "repo": "Plugalyzer",
-            "stars": 190
+            "stars": 191
           }
         },
         {
@@ -3780,7 +3780,7 @@
         {
           "node_type": "item",
           "title": "luce",
-          "description": "by peersuasive LUA GUI module (unmaintained) 128 10 years🔴",
+          "description": "by peersuasive LUA GUI module (unmaintained)  128 10 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3810,7 +3810,7 @@
         {
           "node_type": "item",
           "title": "AbletonLink_JuceSampler",
-          "description": "by ianacaburian Tutorial on tempo synchronization with Ableton Link 75 7 years🔴",
+          "description": "by ianacaburian Tutorial on tempo synchronization with Ableton Link  75 7 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3900,7 +3900,7 @@
         {
           "node_type": "item",
           "title": "qt_with_juce_example",
-          "description": "by nikeocom Example project using Qt and JUCE together 22 6 years🔴",
+          "description": "by nikeocom Example project using Qt and JUCE together  22 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4086,7 +4086,7 @@
         {
           "node_type": "item",
           "title": "TensorFlowVST",
-          "description": "by Cyril-Meyer Example of using a TensorFlow Keras model in a VST 18 5 years🔴",
+          "description": "by Cyril-Meyer Example of using a TensorFlow Keras model in a VST  18 5 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4122,7 +4122,7 @@
         {
           "node_type": "item",
           "title": "juce_serialport",
-          "description": "by cpr2323 Access hardware serial ports or USB virtual serial ports 48 3 years🔴",
+          "description": "by cpr2323 Access hardware serial ports or USB virtual serial ports  48 3 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4152,7 +4152,7 @@
         {
           "node_type": "item",
           "title": "Sysex77",
-          "description": "by nseaSeb Midi editor for the Yamaha Sy77/TG77/Sy99 FMSynth 22 2 months󠀠󠀠🟢",
+          "description": "by nseaSeb Midi editor for the Yamaha Sy77/TG77/Sy99 FMSynth  22 2 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4182,7 +4182,7 @@
         {
           "node_type": "item",
           "title": "AmbiCreator",
-          "description": "by AustrianAudioGmbH Record first-order Ambisonics using two OC818 microphones 15 2 months󠀠󠀠🟢",
+          "description": "by AustrianAudioGmbH Record first-order Ambisonics using two OC818 microphones  15 2 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4361,7 +4361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:45:37.656Z",
+    "last_updated": "2026-08-25T06:06:07.764Z",
     "original_repository": "sudara/awesome-juce",
     "original_repository_id": 489955136,
     "original_repository_sha": "0bafb4e653fa84303e0b48e238d328a8ada186d9",
