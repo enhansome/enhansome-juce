@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Gin",
-          "description": "by FigBug Massive collection of extras, including StackBlur, Websockets, Maps, etc BSD-3-Clause 403 16 hours󠀠󠀠🟢",
+          "description": "by FigBug Massive collection of extras, including StackBlur, Websockets, Maps, etc BSD-3-Clause 403 1 day󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -162,7 +162,7 @@
         {
           "node_type": "item",
           "title": "pamplejuce",
-          "description": "by sudara C++20, JUCE, CMake, Catch2, Pluginval on GitHub Actions MIT 756 8 days󠀠󠀠🟢",
+          "description": "by sudara C++20, JUCE, CMake, Catch2, Pluginval on GitHub Actions MIT 756 9 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -318,7 +318,7 @@
         {
           "node_type": "item",
           "title": "BespokeSynth",
-          "description": "by BespokeSynth Cross-Platform Modular synth instrument/environment GPL-3.0 4695 6 days󠀠󠀠🟢",
+          "description": "by BespokeSynth Cross-Platform Modular synth instrument/environment GPL-3.0 4697 7 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -333,7 +333,7 @@
         {
           "node_type": "item",
           "title": "surge",
-          "description": "by surge-synthesizer A very active open source rebuild and extension of the classic GPL-3.0 3980 8 days󠀠󠀠🟢",
+          "description": "by surge-synthesizer A very active open source rebuild and extension of the classic GPL-3.0 3980 9 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -348,7 +348,7 @@
         {
           "node_type": "item",
           "title": "helio-sequencer",
-          "description": "by helio-fm One music sequencer for all major platforms, desktop and mobile GPL-3.0 3528 1 hour󠀠󠀠🟢",
+          "description": "by helio-fm One music sequencer for all major platforms, desktop and mobile GPL-3.0 3529 1 day󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-24T15:24:25Z",
             "owner": "helio-fm",
             "repo": "helio-sequencer",
-            "stars": 3528
+            "stars": 3530
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-07-25T14:14:30Z",
             "owner": "asb2m10",
             "repo": "dexed",
-            "stars": 3477
+            "stars": 3478
           }
         },
         {
@@ -402,13 +402,13 @@
             "last_commit": "2023-05-25T04:09:10Z",
             "owner": "mtytel",
             "repo": "vital",
-            "stars": 2108
+            "stars": 2109
           }
         },
         {
           "node_type": "item",
           "title": "giada",
-          "description": "by monocasual Your Hardcore Loop Machine GPL-3.0 2075 2 days󠀠󠀠🟢",
+          "description": "by monocasual Your Hardcore Loop Machine GPL-3.0 2076 3 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-22T19:01:38Z",
             "owner": "monocasual",
             "repo": "giada",
-            "stars": 2075
+            "stars": 2077
           }
         },
         {
@@ -432,13 +432,13 @@
             "last_commit": "2025-09-07T09:05:31Z",
             "owner": "TheWaveWarden",
             "repo": "odin2",
-            "stars": 807
+            "stars": 808
           }
         },
         {
           "node_type": "item",
           "title": "osci-render",
-          "description": "by jameshball A synthesiser for making oscilloscope music and visuals GPL-3.0 721 4 months󠀠󠀠🟢",
+          "description": "by jameshball A synthesiser for making oscilloscope music and visuals GPL-3.0 722 4 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -447,13 +447,13 @@
             "last_commit": "2026-08-23T20:17:21Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 721
+            "stars": 723
           }
         },
         {
           "node_type": "item",
           "title": "ripplerx",
-          "description": "by tiagolr A physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision GPL-3.0 629 11 days󠀠󠀠🟢",
+          "description": "by tiagolr A physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision GPL-3.0 630 12 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-13T12:36:29Z",
             "owner": "tiagolr",
             "repo": "ripplerx",
-            "stars": 630
+            "stars": 631
           }
         },
         {
@@ -537,13 +537,13 @@
             "last_commit": "2023-09-12T08:43:44Z",
             "owner": "paynebc",
             "repo": "tunefish",
-            "stars": 309
+            "stars": 310
           }
         },
         {
           "node_type": "item",
           "title": "OB-Xd",
-          "description": "by reales Virtual Analog modelled Oberheim OB-X with a few extras  256 6 days󠀠󠀠🟢",
+          "description": "by reales Virtual Analog modelled Oberheim OB-X with a few extras  256 7 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -558,7 +558,7 @@
         {
           "node_type": "item",
           "title": "Wavetable",
-          "description": "by FigBug A 2 oscillator wavetable synth with flexible modulation options BSD-3-Clause 212 23 hours󠀠󠀠🟢",
+          "description": "by FigBug A 2 oscillator wavetable synth with flexible modulation options BSD-3-Clause 212 2 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -618,7 +618,7 @@
         {
           "node_type": "item",
           "title": "AudiblePlanets",
-          "description": "by gregrecco67 An expressive, quasi-Ptolemaic semi-modular synthesizer GPL-3.0 162 5 months󠀠󠀠🟢",
+          "description": "by gregrecco67 An expressive, quasi-Ptolemaic semi-modular synthesizer GPL-3.0 162 6 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -627,7 +627,7 @@
             "last_commit": "2026-03-12T23:25:24Z",
             "owner": "gregrecco67",
             "repo": "AudiblePlanets",
-            "stars": 162
+            "stars": 163
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2026-05-05T11:27:44Z",
             "owner": "psemiletov",
             "repo": "drumlabooh",
-            "stars": 116
+            "stars": 118
           }
         },
         {
@@ -678,7 +678,7 @@
         {
           "node_type": "item",
           "title": "PAPU",
-          "description": "by FigBug Gameboy PAPU emulation GPL-2.0 60 23 hours󠀠󠀠🟢",
+          "description": "by FigBug Gameboy PAPU emulation GPL-2.0 60 20 hours󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -693,7 +693,7 @@
         {
           "node_type": "item",
           "title": "SID",
-          "description": "by FigBug Commodore 64 SID emulation GPL-3.0 58 23 hours󠀠󠀠🟢",
+          "description": "by FigBug Commodore 64 SID emulation GPL-3.0 58 20 hours󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -708,7 +708,7 @@
         {
           "node_type": "item",
           "title": "SN76489",
-          "description": "by FigBug Sega Master System Sound Chip emulation LGPL-2.1 54 23 hours󠀠󠀠🟢",
+          "description": "by FigBug Sega Master System Sound Chip emulation LGPL-2.1 54 20 hours󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -753,7 +753,7 @@
         {
           "node_type": "item",
           "title": "Voc",
-          "description": "by FigBug Vocal synth emulates glottis and shape of vocal tract LGPL-2.1 38 23 hours󠀠󠀠🟢",
+          "description": "by FigBug Vocal synth emulates glottis and shape of vocal tract LGPL-2.1 38 20 hours󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -768,7 +768,7 @@
         {
           "node_type": "item",
           "title": "RP2A03",
-          "description": "by FigBug Nintenodo RP2A03 LGPL-2.1 36 23 hours󠀠󠀠🟢",
+          "description": "by FigBug Nintenodo RP2A03 LGPL-2.1 36 20 hours󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -969,7 +969,7 @@
         {
           "node_type": "item",
           "title": "shortcircuit-xt",
-          "description": "by surge-synthesizer Sampler MIT 547 5 days󠀠󠀠🟢",
+          "description": "by surge-synthesizer Sampler MIT 547 6 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -984,7 +984,7 @@
         {
           "node_type": "item",
           "title": "vmpc-juce",
-          "description": "by izzyreal JUCE implementation of VMPC2000XL GPL-3.0 248 3 days󠀠󠀠🟢",
+          "description": "by izzyreal JUCE implementation of VMPC2000XL GPL-3.0 248 4 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -999,7 +999,7 @@
         {
           "node_type": "item",
           "title": "Just-a-Sample",
-          "description": "by BOBONA A modern audio sampler, focused on simplicity and ease of use MIT 213 7 days󠀠󠀠🟢",
+          "description": "by BOBONA A modern audio sampler, focused on simplicity and ease of use MIT 213 8 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1125,7 +1125,7 @@
         {
           "node_type": "item",
           "title": "SmartGuitarAmp",
-          "description": "by GuitarML Neural Network WaveNet modelled guitar amps Apache-2.0 1330 3 years🔴",
+          "description": "by GuitarML Neural Network WaveNet modelled guitar amps Apache-2.0 1332 3 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1134,13 +1134,13 @@
             "last_commit": "2023-04-11T18:03:36Z",
             "owner": "GuitarML",
             "repo": "SmartGuitarAmp",
-            "stars": 1331
+            "stars": 1332
           }
         },
         {
           "node_type": "item",
           "title": "ZLEqualizer",
-          "description": "by ZL-Audio 16-band minimum-phase dynamic equalizer AGPL-3.0 992 15 hours󠀠󠀠🟢",
+          "description": "by ZL-Audio 16-band minimum-phase dynamic equalizer AGPL-3.0 995 1 day󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1149,7 +1149,7 @@
             "last_commit": "2026-08-24T01:09:56Z",
             "owner": "ZL-Audio",
             "repo": "ZLEqualizer",
-            "stars": 993
+            "stars": 996
           }
         },
         {
@@ -1170,7 +1170,7 @@
         {
           "node_type": "item",
           "title": "Fire",
-          "description": "by jerryuhoo A multi-band distortion plugin AGPL-3.0 636 10 months󠀠󠀠🟢",
+          "description": "by jerryuhoo A multi-band distortion plugin AGPL-3.0 637 10 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1200,7 +1200,7 @@
         {
           "node_type": "item",
           "title": "Maim",
-          "description": "by ArdenButterfield Audio plugin for custom MP3 distortion and digital glitches GPL-3.0 373 1 month󠀠󠀠🟢",
+          "description": "by ArdenButterfield Audio plugin for custom MP3 distortion and digital glitches GPL-3.0 374 1 month󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1245,7 +1245,7 @@
         {
           "node_type": "item",
           "title": "CTAGDRC",
-          "description": "by p-hlp An audio compressor plugin GPL-3.0 217 5 years🔴",
+          "description": "by p-hlp An audio compressor plugin GPL-3.0 217 6 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1275,7 +1275,7 @@
         {
           "node_type": "item",
           "title": "valentine",
-          "description": "by tote-bag-labs An open source compressor meant to pump and breathe GPL-3.0 193 12 months󠀠󠀠🟢",
+          "description": "by tote-bag-labs An open source compressor meant to pump and breathe GPL-3.0 193 1 year🟠",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1305,7 +1305,7 @@
         {
           "node_type": "item",
           "title": "slPlugins",
-          "description": "by FigBug Large plugin collection from socalabs BSD-3-Clause 154 17 hours󠀠󠀠🟢",
+          "description": "by FigBug Large plugin collection from socalabs BSD-3-Clause 154 1 day󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1575,7 +1575,7 @@
         {
           "node_type": "item",
           "title": "utility-clone",
-          "description": "by m1m0zzz VST plugin like a Ableton Utility GPL-3.0 34 14 days󠀠󠀠🟢",
+          "description": "by m1m0zzz VST plugin like a Ableton Utility GPL-3.0 34 15 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1590,7 +1590,7 @@
         {
           "node_type": "item",
           "title": "mverb",
-          "description": "by FigBug Dattorro’s figure-of-eight reverb GPL-3.0 32 23 hours󠀠󠀠🟢",
+          "description": "by FigBug Dattorro’s figure-of-eight reverb GPL-3.0 32 20 hours󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1911,7 +1911,7 @@
         {
           "node_type": "item",
           "title": "Frequalizer",
-          "description": "by ffAudio Equalizer using JUCE's dsp module BSD-3-Clause 372 4 years🔴",
+          "description": "by ffAudio Equalizer using JUCE's dsp module BSD-3-Clause 371 4 years🔴",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1977,7 +1977,7 @@
         {
           "node_type": "item",
           "title": "ShowMIDI",
-          "description": "by gbevin Multi-platform GUI application to effortlessly visualize MIDI activity GPL-3.0 893 2 days󠀠󠀠🟢",
+          "description": "by gbevin Multi-platform GUI application to effortlessly visualize MIDI activity GPL-3.0 894 3 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1986,13 +1986,13 @@
             "last_commit": "2026-08-22T16:27:50Z",
             "owner": "gbevin",
             "repo": "ShowMIDI",
-            "stars": 893
+            "stars": 895
           }
         },
         {
           "node_type": "item",
           "title": "SendMIDI",
-          "description": "by gbevin Cross-platform tool to send MIDI messages from the command line GPL-3.0 845 3 days󠀠󠀠🟢",
+          "description": "by gbevin Cross-platform tool to send MIDI messages from the command line GPL-3.0 845 4 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2022,7 +2022,7 @@
         {
           "node_type": "item",
           "title": "ReceiveMIDI",
-          "description": "by gbevin Cross-platform tool to monitor and receive MIDI messages on the command line GPL-3.0 374 3 days󠀠󠀠🟢",
+          "description": "by gbevin Cross-platform tool to monitor and receive MIDI messages on the command line GPL-3.0 374 4 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2037,7 +2037,7 @@
         {
           "node_type": "item",
           "title": "KnobKraft-orm",
-          "description": "by christofmuc The free modern cross-platform MIDI Sysex Librarian AGPL-3.0 284 4 months󠀠󠀠🟢",
+          "description": "by christofmuc The free modern cross-platform MIDI Sysex Librarian AGPL-3.0 285 4 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2244,7 +2244,7 @@
         {
           "node_type": "item",
           "title": "foleys_gui_magic",
-          "description": "by ffAudio WYSWYG plugin editor letting you create JUCE GUIs without coding other 589 9 days󠀠󠀠🟢",
+          "description": "by ffAudio WYSWYG plugin editor letting you create JUCE GUIs without coding other 589 10 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2253,7 +2253,7 @@
             "last_commit": "2026-08-15T19:26:53Z",
             "owner": "ffAudio",
             "repo": "foleys_gui_magic",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -2505,7 +2505,7 @@
         {
           "node_type": "item",
           "title": "pluginval",
-          "description": "by Tracktion Cross-platform plugin testing and validation GPL-3.0 575 3 months󠀠󠀠🟢",
+          "description": "by Tracktion Cross-platform plugin testing and validation GPL-3.0 574 3 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2514,7 +2514,7 @@
             "last_commit": "2026-08-16T15:38:49Z",
             "owner": "Tracktion",
             "repo": "pluginval",
-            "stars": 575
+            "stars": 574
           }
         },
         {
@@ -2535,7 +2535,7 @@
         {
           "node_type": "item",
           "title": "melatonin_inspector",
-          "description": "by sudara Inspect your JUCE components ala Web Inspector MIT 288 8 days󠀠󠀠🟢",
+          "description": "by sudara Inspect your JUCE components ala Web Inspector MIT 288 9 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2616,22 +2616,22 @@
         {
           "node_type": "item",
           "title": "plugdata",
-          "description": "by plugdata-team Pure Data as a plugin, with a new GUI GPL-3.0 2313 5 hours󠀠󠀠🟢",
+          "description": "by plugdata-team Pure Data as a plugin, with a new GUI GPL-3.0 2314 24 hours󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 432598139,
             "language": "C",
-            "last_commit": "2026-08-24T16:09:56Z",
+            "last_commit": "2026-08-25T19:54:57Z",
             "owner": "plugdata-team",
             "repo": "plugdata",
-            "stars": 2313
+            "stars": 2314
           }
         },
         {
           "node_type": "item",
           "title": "Chataigne",
-          "description": "by benkuper Real-time communication and syncing with many other technologies GPL-3.0 1652 10 days󠀠󠀠🟢",
+          "description": "by benkuper Real-time communication and syncing with many other technologies GPL-3.0 1653 11 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2640,13 +2640,13 @@
             "last_commit": "2026-08-14T14:38:14Z",
             "owner": "benkuper",
             "repo": "Chataigne",
-            "stars": 1652
+            "stars": 1654
           }
         },
         {
           "node_type": "item",
           "title": "HISE",
-          "description": "by christophhart The open source framework for sample based instruments other 1417 8 days󠀠󠀠🟢",
+          "description": "by christophhart The open source framework for sample based instruments other 1419 9 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2655,7 +2655,7 @@
             "last_commit": "2026-08-16T08:38:40Z",
             "owner": "christophhart",
             "repo": "HISE",
-            "stars": 1418
+            "stars": 1419
           }
         },
         {
@@ -2691,7 +2691,7 @@
         {
           "node_type": "item",
           "title": "cabbage",
-          "description": "by rorywalsh Framework for developing plugins with the Csound programming language GPL-3.0 573 6 months󠀠󠀠🟢",
+          "description": "by rorywalsh Framework for developing plugins with the Csound programming language GPL-3.0 573 7 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2772,16 +2772,16 @@
         {
           "node_type": "item",
           "title": "faust",
-          "description": "by grame-cncm JUCE standalone app and plugin exporter for Faust DSP library other 3133 7 hours󠀠󠀠🟢",
+          "description": "by grame-cncm JUCE standalone app and plugin exporter for Faust DSP library other 3136 1 hour󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 72926839,
             "language": "C++",
-            "last_commit": "2026-08-24T08:48:23Z",
+            "last_commit": "2026-08-25T14:26:43Z",
             "owner": "grame-cncm",
             "repo": "faust",
-            "stars": 3134
+            "stars": 3137
           }
         },
         {
@@ -2802,7 +2802,7 @@
         {
           "node_type": "item",
           "title": "signalsmith-stretch",
-          "description": "by Signalsmith-Audio Polyphonic pitch/time algorithm MIT 543 7 months󠀠󠀠🟢",
+          "description": "by Signalsmith-Audio Polyphonic pitch/time algorithm MIT 542 7 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2811,13 +2811,13 @@
             "last_commit": "2026-01-24T09:07:32Z",
             "owner": "Signalsmith-Audio",
             "repo": "signalsmith-stretch",
-            "stars": 542
+            "stars": 543
           }
         },
         {
           "node_type": "item",
           "title": "dsp",
-          "description": "by Signalsmith-Audio Signalsmith's library of DSP utilities and classes MIT 272 1 day󠀠󠀠🟢",
+          "description": "by Signalsmith-Audio Signalsmith's library of DSP utilities and classes MIT 273 2 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2901,7 +2901,7 @@
             "last_commit": "2026-06-30T12:56:41Z",
             "owner": "surge-synthesizer",
             "repo": "sst-filters",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -3165,13 +3165,13 @@
         {
           "node_type": "item",
           "title": "CustomMatPlot",
-          "description": "by franshej MatPlotLib implementation in JUCE MIT 89 14 days󠀠󠀠🟢",
+          "description": "by franshej MatPlotLib implementation in JUCE MIT 89 15 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 486183072,
             "language": "C++",
-            "last_commit": "2026-08-10T15:33:29Z",
+            "last_commit": "2026-08-25T07:09:27Z",
             "owner": "franshej",
             "repo": "CustomMatPlot",
             "stars": 89
@@ -3609,7 +3609,7 @@
         {
           "node_type": "item",
           "title": "pedalboard",
-          "description": "by spotify A Python library and host for manipulating audio GPL-3.0 6276 14 days󠀠󠀠🟢",
+          "description": "by spotify A Python library and host for manipulating audio GPL-3.0 6277 23 hours󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3618,34 +3618,34 @@
             "last_commit": "2026-08-24T17:19:12Z",
             "owner": "spotify",
             "repo": "pedalboard",
-            "stars": 6276
+            "stars": 6278
           }
         },
         {
           "node_type": "item",
           "title": "element",
-          "description": "by kushview The audio plugin host that isn't a DAW!  1685 3 days󠀠󠀠🟢",
+          "description": "by kushview The audio plugin host that isn't a DAW!  1686 4 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 216897669,
             "language": "C++",
-            "last_commit": "2026-08-23T02:52:22Z",
+            "last_commit": "2026-08-25T23:06:15Z",
             "owner": "kushview",
             "repo": "element",
-            "stars": 1686
+            "stars": 1687
           }
         },
         {
           "node_type": "item",
           "title": "tracktion_engine",
-          "description": "by Tracktion The one, the only, the engine that JUCE was once extracted from other 1429 1 hour󠀠󠀠🟢",
+          "description": "by Tracktion The one, the only, the engine that JUCE was once extracted from other 1429 2 hours󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 156860418,
             "language": "C++",
-            "last_commit": "2026-08-24T22:46:46Z",
+            "last_commit": "2026-08-25T21:27:08Z",
             "owner": "Tracktion",
             "repo": "tracktion_engine",
             "stars": 1429
@@ -3654,7 +3654,7 @@
         {
           "node_type": "item",
           "title": "DawDreamer",
-          "description": "by DBraun Python DAW with full cross platform support GPL-3.0 1285 12 days󠀠󠀠🟢",
+          "description": "by DBraun Python DAW with full cross platform support GPL-3.0 1285 13 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3669,7 +3669,7 @@
         {
           "node_type": "item",
           "title": "OwlPlug",
-          "description": "by DropSnorz Cross-platform plugin manager GPL-3.0 505 14 days󠀠󠀠🟢",
+          "description": "by DropSnorz Cross-platform plugin manager GPL-3.0 505 15 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3699,7 +3699,7 @@
         {
           "node_type": "item",
           "title": "Plugalyzer",
-          "description": "by CrushedPixel Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins GPL-3.0 190 3 months󠀠󠀠🟢",
+          "description": "by CrushedPixel Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins GPL-3.0 191 3 months󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3735,7 +3735,7 @@
         {
           "node_type": "item",
           "title": "MIDI2LR",
-          "description": "by rsjaffe An application and plugin to remotely control Lightroom via MIDI GPL-3.0 772 25 days󠀠󠀠🟢",
+          "description": "by rsjaffe An application and plugin to remotely control Lightroom via MIDI GPL-3.0 772 26 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3744,13 +3744,13 @@
             "last_commit": "2026-07-30T19:02:41Z",
             "owner": "rsjaffe",
             "repo": "MIDI2LR",
-            "stars": 772
+            "stars": 773
           }
         },
         {
           "node_type": "item",
           "title": "clap-juce-extensions",
-          "description": "by free-audio CLAP plugin support MIT 208 19 days󠀠󠀠🟢",
+          "description": "by free-audio CLAP plugin support MIT 208 20 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3759,7 +3759,7 @@
             "last_commit": "2026-08-05T17:25:22Z",
             "owner": "free-audio",
             "repo": "clap-juce-extensions",
-            "stars": 208
+            "stars": 209
           }
         },
         {
@@ -4233,7 +4233,7 @@
         {
           "node_type": "item",
           "title": "sonobus",
-          "description": "by sonosaurus Real-time network audio streaming collaboration tool GPL-3.0 2167 2 years🟠",
+          "description": "by sonosaurus Real-time network audio streaming collaboration tool GPL-3.0 2168 2 years🟠",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4263,16 +4263,16 @@
         {
           "node_type": "item",
           "title": "JammerNetz",
-          "description": "by christofmuc Host a jam session over the internet AGPL-3.0 61 4 days󠀠󠀠🟢",
+          "description": "by christofmuc Host a jam session over the internet AGPL-3.0 61 5 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 212572181,
             "language": "C++",
-            "last_commit": "2026-08-24T09:14:33Z",
+            "last_commit": "2026-08-25T21:57:10Z",
             "owner": "christofmuc",
             "repo": "JammerNetz",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -4294,18 +4294,18 @@
       "title": "Networking"
     },
     {
-      "description": "293 entries as of 2026-08-24",
+      "description": "293 entries as of 2026-08-25",
       "items": [
         {
           "node_type": "item",
           "title": "yup",
-          "description": "by kunitoki Liberally licensed standalone framework with modern rendering forked from JUCE7 other 171 5 days󠀠󠀠🟢",
+          "description": "by kunitoki Liberally licensed standalone framework with modern rendering forked from JUCE7 other 171 6 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 790711037,
             "language": "C++",
-            "last_commit": "2026-08-19T23:18:36Z",
+            "last_commit": "2026-08-25T23:23:06Z",
             "owner": "kunitoki",
             "repo": "yup",
             "stars": 171
@@ -4314,7 +4314,7 @@
         {
           "node_type": "item",
           "title": "JUCE_ARA",
-          "description": "by Celemony JUCE fork that provides Audio Random Access (ARA) support other 48 7 days󠀠󠀠🟢",
+          "description": "by Celemony JUCE fork that provides Audio Random Access (ARA) support other 48 8 days󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4329,7 +4329,7 @@
         {
           "node_type": "item",
           "title": "JUCE",
-          "description": "by soundradix Fork with AAX AudioSuite support and other features and fixes other 23 29 days󠀠󠀠🟢",
+          "description": "by soundradix Fork with AAX AudioSuite support and other features and fixes other 23 1 month󠀠󠀠🟢",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4361,10 +4361,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:07.764Z",
+    "last_updated": "2026-08-26T01:51:05.850Z",
     "original_repository": "sudara/awesome-juce",
     "original_repository_id": 489955136,
-    "original_repository_sha": "0bafb4e653fa84303e0b48e238d328a8ada186d9",
+    "original_repository_sha": "91955df74e82036fcef5703ac8c4bbe8b120fe38",
     "enhanced_repository": "enhansome/enhansome-juce",
     "enhanced_repository_description": null,
     "title": "Awesome juce with stars"
