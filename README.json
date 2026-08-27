@@ -372,7 +372,7 @@
             "last_commit": "2026-07-25T14:14:30Z",
             "owner": "asb2m10",
             "repo": "dexed",
-            "stars": 3478
+            "stars": 3479
           }
         },
         {
@@ -2514,7 +2514,7 @@
             "last_commit": "2026-08-16T15:38:49Z",
             "owner": "Tracktion",
             "repo": "pluginval",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -2622,10 +2622,10 @@
             "archived": false,
             "id": 432598139,
             "language": "C",
-            "last_commit": "2026-08-27T09:21:44Z",
+            "last_commit": "2026-08-27T11:24:49Z",
             "owner": "plugdata-team",
             "repo": "plugdata",
-            "stars": 2314
+            "stars": 2315
           }
         },
         {
@@ -2778,7 +2778,7 @@
             "archived": false,
             "id": 72926839,
             "language": "C++",
-            "last_commit": "2026-08-27T06:24:20Z",
+            "last_commit": "2026-08-27T10:36:50Z",
             "owner": "grame-cncm",
             "repo": "faust",
             "stars": 3138
@@ -3618,7 +3618,7 @@
             "last_commit": "2026-08-24T17:19:12Z",
             "owner": "spotify",
             "repo": "pedalboard",
-            "stars": 6280
+            "stars": 6281
           }
         },
         {
@@ -3648,7 +3648,7 @@
             "last_commit": "2026-08-26T20:35:33Z",
             "owner": "Tracktion",
             "repo": "tracktion_engine",
-            "stars": 1431
+            "stars": 1432
           }
         },
         {
@@ -4361,9 +4361,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:25:09.093Z",
-    "original_repository": "sudara/awesome-juce",
-    "original_repository_id": 489955136,
+    "last_updated": "2026-08-27T11:46:08.213Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 489955136,
+      "language": "Ruby",
+      "last_commit": "2026-08-26T16:03:39Z",
+      "owner": "sudara",
+      "repo": "awesome-juce",
+      "stars": 1328
+    },
     "original_repository_sha": "e73ac57fa78aef292f3d6474d0cb856d65fab3ac",
     "enhanced_repository": "enhansome/enhansome-juce",
     "enhanced_repository_description": null,
