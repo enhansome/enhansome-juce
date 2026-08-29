@@ -265,7 +265,7 @@
             "open_issues": 26,
             "owner": "sudara",
             "repo": "pamplejuce",
-            "stars": 756,
+            "stars": 757,
             "topics": [
               "audio",
               "catch2",
@@ -571,7 +571,7 @@
             "open_issues": 178,
             "owner": "surge-synthesizer",
             "repo": "surge",
-            "stars": 3983,
+            "stars": 3984,
             "topics": [
               "audio-units",
               "synthesizer",
@@ -674,7 +674,7 @@
             "open_issues": 43,
             "owner": "mtytel",
             "repo": "vital",
-            "stars": 2113,
+            "stars": 2114,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -3254,7 +3254,7 @@
             "open_issues": 4,
             "owner": "gbevin",
             "repo": "SendMIDI",
-            "stars": 845,
+            "stars": 846,
             "topics": [
               "command-line",
               "command-line-tool",
@@ -3301,7 +3301,7 @@
             "open_issues": 4,
             "owner": "gbevin",
             "repo": "ReceiveMIDI",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "command-line",
               "command-line-tool",
@@ -7108,7 +7108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:00.166Z",
+    "last_updated": "2026-08-29T06:56:49.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JUCE modules, templates, plugins, oh my!",
