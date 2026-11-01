@@ -15,7 +15,7 @@
             "id": 117844713,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-07T17:51:31Z",
+            "last_commit": "2026-10-31T23:23:04Z",
             "open_issues": 9,
             "owner": "FigBug",
             "repo": "Gin",
@@ -568,10 +568,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-27T05:04:37Z",
-            "open_issues": 360,
+            "open_issues": 361,
             "owner": "BespokeSynth",
             "repo": "BespokeSynth",
-            "stars": 4751,
+            "stars": 4752,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -588,11 +588,11 @@
             "id": 149678202,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T16:35:03Z",
+            "last_commit": "2026-10-31T19:35:20Z",
             "open_issues": 146,
             "owner": "surge-synthesizer",
             "repo": "surge",
-            "stars": 4086,
+            "stars": 4090,
             "topics": [
               "audio-units",
               "synthesizer",
@@ -613,11 +613,11 @@
             "id": 14973783,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-15T03:01:36Z",
-            "open_issues": 81,
+            "last_commit": "2026-10-31T16:00:19Z",
+            "open_issues": 77,
             "owner": "asb2m10",
             "repo": "dexed",
-            "stars": 3610,
+            "stars": 3611,
             "topics": [
               "dx7",
               "vst"
@@ -641,7 +641,7 @@
             "open_issues": 114,
             "owner": "helio-fm",
             "repo": "helio-sequencer",
-            "stars": 3574,
+            "stars": 3575,
             "topics": [
               "audio-applications",
               "composition",
@@ -674,7 +674,7 @@
             "open_issues": 133,
             "owner": "mtytel",
             "repo": "helm",
-            "stars": 2502,
+            "stars": 2503,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -713,7 +713,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-29T16:26:46Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "monocasual",
             "repo": "giada",
             "stars": 2110,
@@ -809,7 +809,7 @@
             "open_issues": 13,
             "owner": "tiagolr",
             "repo": "ripplerx",
-            "stars": 657,
+            "stars": 659,
             "topics": [
               "au-plugin",
               "dsp",
@@ -1021,7 +1021,7 @@
             "open_issues": 11,
             "owner": "Chowdhury-DSP",
             "repo": "ChowKick",
-            "stars": 205,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -1108,7 +1108,7 @@
             "id": 675755418,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T16:47:22Z",
+            "last_commit": "2026-10-31T17:14:08Z",
             "open_issues": 3,
             "owner": "psemiletov",
             "repo": "drumlabooh",
@@ -1170,7 +1170,7 @@
             "open_issues": 1,
             "owner": "vitling",
             "repo": "crypt",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -1596,7 +1596,7 @@
             "open_issues": 122,
             "owner": "surge-synthesizer",
             "repo": "shortcircuit-xt",
-            "stars": 571,
+            "stars": 572,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -1816,7 +1816,7 @@
             "open_issues": 41,
             "owner": "jatinchowdhury18",
             "repo": "AnalogTapeModel",
-            "stars": 1454,
+            "stars": 1455,
             "topics": [
               "analog-tape-machines",
               "audio-effect",
@@ -1874,7 +1874,7 @@
             "open_issues": 1,
             "owner": "ZL-Audio",
             "repo": "ZLEqualizer",
-            "stars": 1043,
+            "stars": 1048,
             "topics": [
               "audio-effect",
               "audio-unit",
@@ -1923,7 +1923,7 @@
             "open_issues": 17,
             "owner": "jerryuhoo",
             "repo": "Fire",
-            "stars": 650,
+            "stars": 651,
             "topics": [
               "au-plugin",
               "distortion-plugin",
@@ -1951,7 +1951,7 @@
             "open_issues": 53,
             "owner": "Chowdhury-DSP",
             "repo": "BYOD",
-            "stars": 589,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -1972,7 +1972,7 @@
             "open_issues": 15,
             "owner": "ArdenButterfield",
             "repo": "Maim",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "audio-effect",
               "vst",
@@ -2394,7 +2394,7 @@
             "id": 1017210156,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T10:47:03Z",
+            "last_commit": "2026-10-31T10:16:17Z",
             "open_issues": 0,
             "owner": "hqrrr",
             "repo": "PerceptoMap",
@@ -3227,7 +3227,7 @@
             "open_issues": 17,
             "owner": "gbevin",
             "repo": "ShowMIDI",
-            "stars": 907,
+            "stars": 908,
             "topics": [
               "midi",
               "midi-messages",
@@ -3279,7 +3279,7 @@
             "open_issues": 50,
             "owner": "surge-synthesizer",
             "repo": "stochas",
-            "stars": 561,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -4213,8 +4213,8 @@
             "id": 432598139,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T15:23:35Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-31T13:04:18Z",
+            "open_issues": 246,
             "owner": "plugdata-team",
             "repo": "plugdata",
             "stars": 2385,
@@ -4242,7 +4242,7 @@
             "open_issues": 4,
             "owner": "benkuper",
             "repo": "Chataigne",
-            "stars": 1695,
+            "stars": 1697,
             "topics": [
               "art",
               "audio",
@@ -4273,7 +4273,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T09:43:16Z",
-            "open_issues": 383,
+            "open_issues": 384,
             "owner": "christophhart",
             "repo": "HISE",
             "stars": 1443,
@@ -4469,11 +4469,11 @@
             "id": 72926839,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T11:46:05Z",
-            "open_issues": 249,
+            "last_commit": "2026-10-31T15:03:22Z",
+            "open_issues": 246,
             "owner": "grame-cncm",
             "repo": "faust",
-            "stars": 3199,
+            "stars": 3200,
             "topics": [
               "audio",
               "c",
@@ -4562,7 +4562,7 @@
             "open_issues": 0,
             "owner": "Signalsmith-Audio",
             "repo": "dsp",
-            "stars": 280,
+            "stars": 281,
             "topics": []
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -5782,10 +5782,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-23T20:33:09Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "spotify",
             "repo": "pedalboard",
-            "stars": 6393,
+            "stars": 6398,
             "topics": [
               "audio",
               "audio-processing",
@@ -5819,7 +5819,7 @@
             "open_issues": 88,
             "owner": "kushview",
             "repo": "element",
-            "stars": 1760,
+            "stars": 1761,
             "topics": [
               "audio-applications",
               "audio-plugin",
@@ -5853,7 +5853,7 @@
             "open_issues": 48,
             "owner": "Tracktion",
             "repo": "tracktion_engine",
-            "stars": 1463,
+            "stars": 1464,
             "topics": [
               "audio",
               "audio-processing",
@@ -5878,7 +5878,7 @@
             "id": 284760653,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T18:26:12Z",
+            "last_commit": "2026-11-01T05:04:16Z",
             "open_issues": 50,
             "owner": "DBraun",
             "repo": "DawDreamer",
@@ -5916,7 +5916,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-26T20:51:20Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "DropSnorz",
             "repo": "OwlPlug",
             "stars": 536,
@@ -5978,7 +5978,7 @@
             "id": 498551904,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-06-01T09:19:47Z",
+            "last_commit": "2026-10-31T19:07:19Z",
             "open_issues": 8,
             "owner": "CrushedPixel",
             "repo": "Plugalyzer",
@@ -6362,8 +6362,7 @@
               "android-audio",
               "audio",
               "audio-plugin",
-              "juce",
-              "juce-android"
+              "juce"
             ]
           },
           "first_seen": "2026-08-28T11:12:12.527Z"
@@ -6730,7 +6729,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-08T16:38:37Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "nseaSeb",
             "repo": "Sysex77",
             "stars": 25,
@@ -6998,11 +6997,11 @@
             "id": 790711037,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T17:15:12Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-31T20:52:27Z",
+            "open_issues": 2,
             "owner": "kunitoki",
             "repo": "yup",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "application-framework",
               "artboards",
@@ -7107,7 +7106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T05:20:19.088Z",
+    "last_updated": "2026-11-01T05:48:41.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JUCE modules, templates, plugins, oh my!",
